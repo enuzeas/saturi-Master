@@ -3,6 +3,7 @@ import { TranslationResponse, DialectRegion } from '../types';
 import { DIALECT_OPTIONS } from '../constants';
 import { generateDialectSpeech } from '../services/geminiService';
 import { playPcmAudio } from '../utils/audio';
+import Spinner from './Spinner';
 
 interface ResultCardProps {
   result: TranslationResponse;
@@ -51,7 +52,7 @@ const ResultCard: React.FC<ResultCardProps> = ({ result, dialect }) => {
   };
 
   return (
-    <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100 animate-fade-in-up">
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
       <div className={`h-2 w-full ${dialectInfo?.color || 'bg-blue-500'}`} />
       
       <div className="p-6 md:p-8">
@@ -77,10 +78,7 @@ const ResultCard: React.FC<ResultCardProps> = ({ result, dialect }) => {
               title="사투리로 듣기"
             >
               {isLoadingAudio ? (
-                <svg className="animate-spin h-4 w-4 text-blue-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                </svg>
+                <Spinner className="h-4 w-4 text-blue-600" />
               ) : isPlaying ? (
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-4 h-4 animate-pulse">
                   <path d="M13.5 4.06c0-1.336-1.616-2.005-2.56-1.06l-4.5 4.5H4.508c-1.141 0-2.318.664-2.66 1.905A9.76 9.76 0 001.5 12c0 2.485.556 4.835 1.55 6.958.07.15.153.298.249.439.148.22.338.415.561.559.61.396 1.344.47 2.05.21 1.25-.457 2.292-1.42 2.943-2.61.16-.294.52-.407.803-.25.283.158.397.518.25.814-.808 1.636-2.223 2.937-3.957 3.518a2.956 2.956 0 01-1.896-.067c-.24-.092-.47-.215-.678-.363-.263-.187-.492-.42-.67-.68a11.237 11.237 0 01-1.41-3.66C.256 14.868 0 13.456 0 12c0-3.314 1.343-6.314 3.515-8.486.377-.377.785-.71 1.21-1.002.348-.24.787-.205 1.096.082L8.25 5.06l2.69-2.69c.944-.945 2.56-.276 2.56 1.06v17.14c0 1.336-1.616 2.005-2.56 1.06l-2.206-2.207a.75.75 0 011.06-1.06l1.646 1.646V4.06z" />
