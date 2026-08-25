@@ -41,6 +41,18 @@ npm run build
 npm run preview
 ```
 
+## 방언 글로서리 수집 (선택)
+
+우리말샘 오픈 API에서 표준어-방언 대역 데이터를 모아 `data/dialect-glossary.json`을 만듭니다. 번역 프롬프트 정확도를 높이는 few-shot 자료로 쓸 수 있습니다.
+
+1. [우리말샘 오픈 API 신청](https://opendict.korean.go.kr/service/openApiRegister)에서 키 발급
+2. `.env`에 `OPENDICT_API_KEY=발급받은키` 추가
+3. 실행:
+
+```bash
+npm run fetch-dialect-data
+```
+
 ## Cloudflare Pages 배포
 
 ```bash
