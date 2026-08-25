@@ -30,15 +30,21 @@ async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// "'실제표준어'의 방언" 패턴에서 정확한 표준어를 뽑아낸다. 못 찾으면 검색에 쓴 씨앗 단어로 대체.
+function parseStandardWord(definition, seedWord) {
+  const match = definition.match(/^[‘']([^’']+)[’']의 방언/);
+  return match ? match[1] : seedWord;
+}
+
 // item(JSON) -> 표준어-방언 글로서리 엔트리 목록. 순수 함수라 --self-test로 검증 가능.
-export function extractEntries(items, standardWord) {
+export function extractEntries(items, seedWord) {
   const entries = [];
   for (const item of items ?? []) {
     for (const sense of item.sense ?? []) {
-      if (sense.type === '지역어(방언)') {
+      if (sense.type === '방언') {
         entries.push({
           dialectWord: item.word,
-          standardWord,
+          standardWord: parseStandardWord(sense.definition, seedWord),
           definition: sense.definition,
         });
       }
@@ -120,15 +126,21 @@ function selfTest() {
     {
       word: '정지',
       sense: [
-        { type: '지역어(방언)', definition: "'부엌'의 방언" },
+        { type: '방언', definition: "'부엌'의 방언" },
         { type: '일반어', definition: '다른 뜻풀이' },
       ],
     },
+    {
+      word: '가시-어멍',
+      // 씨앗 단어("어머니")보다 정의문 속 실제 표준어("가시어머니")가 더 정확해야 함
+      sense: [{ type: '방언', definition: '‘가시어머니’의 방언' }],
+    },
   ];
-  const result = extractEntries(sample, '부엌');
-  console.assert(result.length === 1, 'self-test 실패: entries 길이');
+  const result = extractEntries(sample, '어머니');
+  console.assert(result.length === 2, 'self-test 실패: entries 길이');
   console.assert(result[0].dialectWord === '정지', 'self-test 실패: dialectWord');
-  console.assert(result[0].standardWord === '부엌', 'self-test 실패: standardWord');
+  console.assert(result[0].standardWord === '부엌', 'self-test 실패: standardWord(ascii quote)');
+  console.assert(result[1].standardWord === '가시어머니', 'self-test 실패: standardWord(정의문 우선, curly quote)');
   console.log('self-test 통과');
 }
 
