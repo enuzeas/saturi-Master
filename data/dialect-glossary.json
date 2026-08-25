@@ -106,11 +106,6 @@
       "definition": "‘가시아버지’의 방언"
     },
     {
-      "dialectWord": "본-영감",
-      "standardWord": "아버지",
-      "definition": "본디 남편인 할아버지"
-    },
-    {
       "dialectWord": "시-아바시",
       "standardWord": "시아버지",
       "definition": "‘시아버지’의 방언"
@@ -201,11 +196,6 @@
       "definition": "‘작은아버지’의 방언"
     },
     {
-      "dialectWord": "본-영감",
-      "standardWord": "할아버지",
-      "definition": "본디 남편인 할아버지"
-    },
-    {
       "dialectWord": "왜-할배",
       "standardWord": "외할아버지",
       "definition": "‘외할아버지’의 방언"
@@ -246,11 +236,6 @@
       "definition": "‘할아버지’의 방언"
     },
     {
-      "dialectWord": "할배-탕구",
-      "standardWord": "할아버지",
-      "definition": "‘할아버지’를 낮잡아 이르는 말"
-    },
-    {
       "dialectWord": "할버씨",
       "standardWord": "할아버지",
       "definition": "‘할아버지’의 방언"
@@ -279,11 +264,6 @@
       "dialectWord": "고조-할매",
       "standardWord": "고조할머니",
       "definition": "‘고조할머니’의 방언"
-    },
-    {
-      "dialectWord": "본-할마시",
-      "standardWord": "할머니",
-      "definition": "본디 부인인 할머니"
     },
     {
       "dialectWord": "왜-할매",
@@ -386,11 +366,6 @@
       "definition": "‘갓난아이’의 방언"
     },
     {
-      "dialectWord": "게오지",
-      "standardWord": "아이",
-      "definition": "앞쪽 젖니가 빠진 아이를 이르는 말"
-    },
-    {
       "dialectWord": "겨집-애",
       "standardWord": "계집아이",
       "definition": "‘계집아이’의 방언"
@@ -411,29 +386,9 @@
       "definition": "‘사내아이’의 방언"
     },
     {
-      "dialectWord": "넘의-우",
-      "standardWord": "아이",
-      "definition": "‘남의 위’라는 말로 여자가 아이를 밴 것을 점잖게 이르는 말"
-    },
-    {
       "dialectWord": "딸-아",
       "standardWord": "딸아이",
       "definition": "‘딸아이’의 방언"
-    },
-    {
-      "dialectWord": "똥-기저구",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
-    },
-    {
-      "dialectWord": "똥-기제기",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
-    },
-    {
-      "dialectWord": "똥-기주개",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
     },
     {
       "dialectWord": "꼬치-친구",
@@ -524,11 +479,6 @@
       "dialectWord": "꼬사리-밥",
       "standardWord": "고사리밥",
       "definition": "‘고사리밥’의 방언"
-    },
-    {
-      "dialectWord": "꼰-밥",
-      "standardWord": "밥",
-      "definition": "달걀 껍데기 속에 불린 쌀과 물을 넣어 구워서 익혀 만든 밥"
     },
     {
       "dialectWord": "낶잇-밥",
@@ -644,11 +594,6 @@
       "dialectWord": "게기-반찬",
       "standardWord": "고기반찬",
       "definition": "‘고기반찬’의 방언"
-    },
-    {
-      "dialectWord": "메르치-뽂음",
-      "standardWord": "반찬",
-      "definition": "마른 멸치를 양념을 넣고 볶아서 만든 반찬"
     },
     {
       "dialectWord": "갓-짐치",
@@ -774,11 +719,6 @@
       "dialectWord": "메물-국시",
       "standardWord": "메밀국수",
       "definition": "‘메밀국수’의 방언"
-    },
-    {
-      "dialectWord": "물-국시",
-      "standardWord": "국수",
-      "definition": "삶은 국수를 마른 멸치 따위를 우려낸 국물에 만 다음 고명을 얹어 먹는 음식"
     },
     {
       "dialectWord": "밀-쩌비",
@@ -1176,11 +1116,6 @@
       "definition": "‘겁먹다’의 방언"
     },
     {
-      "dialectWord": "겅갈-지이다",
-      "standardWord": "먹다",
-      "definition": "남의 것을 욕심내어 공짜로 얻어먹다"
-    },
-    {
       "dialectWord": "공-묵다",
       "standardWord": "공먹다",
       "definition": "‘공먹다’의 방언"
@@ -1244,11 +1179,6 @@
       "dialectWord": "들어-묵다",
       "standardWord": "들어먹다",
       "definition": "‘들어먹다’의 방언"
-    },
-    {
-      "dialectWord": "딲아-묵다",
-      "standardWord": "먹다",
-      "definition": "그릇 따위에 담긴 음식을 남김없이 다 먹다"
     },
     {
       "dialectWord": "떠-묵다",
@@ -1316,21 +1246,6 @@
       "definition": "‘웃다’의 방언"
     },
     {
-      "dialectWord": "맨드리-하다",
-      "standardWord": "조금",
-      "definition": "윤기가 조금 있으면서 부드럽고 매끄러운 듯하다"
-    },
-    {
-      "dialectWord": "무시-전",
-      "standardWord": "조금",
-      "definition": "얇게 썬 무에 소금을 조금 뿌려서 무의 숨을 죽인 다음 되직한 밀가루 반죽을 묻혀서 기름에 부친 전"
-    },
-    {
-      "dialectWord": "보리-사리",
-      "standardWord": "조금",
-      "definition": "봄에 조금 덜 익은 보리를 훔쳐서 불에 구워 손으로 비벼서 먹는 장난"
-    },
-    {
       "dialectWord": "선나치",
       "standardWord": "조금",
       "definition": "‘조금’의 방언"
@@ -1376,16 +1291,6 @@
       "definition": "‘조금’의 방언"
     },
     {
-      "dialectWord": "달이다",
-      "standardWord": "많이",
-      "definition": "진한 꿀이나 단 음식을 많이 먹었을 때 속이 메스껍고 질리는 느낌이 나다"
-    },
-    {
-      "dialectWord": "댈이다",
-      "standardWord": "많이",
-      "definition": "진한 꿀이나 단 음식을 많이 먹었을 때 속이 메스껍고 질리는 느낌이 나다"
-    },
-    {
       "dialectWord": "매이",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
@@ -1429,21 +1334,6 @@
       "dialectWord": "항그시",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
-    },
-    {
-      "dialectWord": "담안-술",
-      "standardWord": "집",
-      "definition": "집에서 직접 담근 술"
-    },
-    {
-      "dialectWord": "못-마당",
-      "standardWord": "집",
-      "definition": "집 모퉁이에 있는 마당"
-    },
-    {
-      "dialectWord": "울밑-논",
-      "standardWord": "집",
-      "definition": "집 가까이에 있는 기름진 논"
     },
     {
       "dialectWord": "개왓-집",
@@ -1506,26 +1396,6 @@
       "definition": "‘학교’의 방언"
     },
     {
-      "dialectWord": "갈롱-지기다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "갈롱-지이다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "깔롱-지기다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "깔롱-지이다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
       "dialectWord": "가람-옷",
       "standardWord": "갈음옷",
       "definition": "‘갈음옷’의 방언"
@@ -1586,16 +1456,6 @@
       "definition": "‘털옷’의 방언"
     },
     {
-      "dialectWord": "돈-구디이",
-      "standardWord": "돈",
-      "definition": "돈이 가득 차 있는 구덩이라는 뜻으로, 매우 많은 돈을 이르는 말"
-    },
-    {
-      "dialectWord": "돈-재이",
-      "standardWord": "돈",
-      "definition": "돈이 아주 많은 사람을 낮잡아 이르는 말"
-    },
-    {
       "dialectWord": "꺼시름-돈",
       "standardWord": "거스름돈",
       "definition": "‘거스름돈’의 방언"
@@ -1604,11 +1464,6 @@
       "dialectWord": "껌은-돈",
       "standardWord": "검은돈",
       "definition": "‘검은돈’의 방언"
-    },
-    {
-      "dialectWord": "꼻다",
-      "standardWord": "돈",
-      "definition": "노름 따위에서 돈을 잃다"
     },
     {
       "dialectWord": "끝-전",
@@ -1669,11 +1524,6 @@
       "dialectWord": "돈-베락",
       "standardWord": "돈벼락",
       "definition": "‘돈벼락’의 방언"
-    },
-    {
-      "dialectWord": "돈-사다",
-      "standardWord": "돈",
-      "definition": "쌀, 콩, 팥 따위의 곡식을 팔아 돈을 장만하다"
     },
     {
       "dialectWord": "돈-지네",
@@ -1798,11 +1648,6 @@
       "definition": "‘가시아버지’의 방언"
     },
     {
-      "dialectWord": "본-영감",
-      "standardWord": "아버지",
-      "definition": "본디 남편인 할아버지"
-    },
-    {
       "dialectWord": "시-아바시",
       "standardWord": "시아버지",
       "definition": "‘시아버지’의 방언"
@@ -1893,11 +1738,6 @@
       "definition": "‘작은아버지’의 방언"
     },
     {
-      "dialectWord": "본-영감",
-      "standardWord": "할아버지",
-      "definition": "본디 남편인 할아버지"
-    },
-    {
       "dialectWord": "왜-할배",
       "standardWord": "외할아버지",
       "definition": "‘외할아버지’의 방언"
@@ -1938,11 +1778,6 @@
       "definition": "‘할아버지’의 방언"
     },
     {
-      "dialectWord": "할배-탕구",
-      "standardWord": "할아버지",
-      "definition": "‘할아버지’를 낮잡아 이르는 말"
-    },
-    {
       "dialectWord": "할버씨",
       "standardWord": "할아버지",
       "definition": "‘할아버지’의 방언"
@@ -1971,11 +1806,6 @@
       "dialectWord": "고조-할매",
       "standardWord": "고조할머니",
       "definition": "‘고조할머니’의 방언"
-    },
-    {
-      "dialectWord": "본-할마시",
-      "standardWord": "할머니",
-      "definition": "본디 부인인 할머니"
     },
     {
       "dialectWord": "왜-할매",
@@ -2078,11 +1908,6 @@
       "definition": "‘갓난아이’의 방언"
     },
     {
-      "dialectWord": "게오지",
-      "standardWord": "아이",
-      "definition": "앞쪽 젖니가 빠진 아이를 이르는 말"
-    },
-    {
       "dialectWord": "겨집-애",
       "standardWord": "계집아이",
       "definition": "‘계집아이’의 방언"
@@ -2103,29 +1928,9 @@
       "definition": "‘사내아이’의 방언"
     },
     {
-      "dialectWord": "넘의-우",
-      "standardWord": "아이",
-      "definition": "‘남의 위’라는 말로 여자가 아이를 밴 것을 점잖게 이르는 말"
-    },
-    {
       "dialectWord": "딸-아",
       "standardWord": "딸아이",
       "definition": "‘딸아이’의 방언"
-    },
-    {
-      "dialectWord": "똥-기저구",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
-    },
-    {
-      "dialectWord": "똥-기제기",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
-    },
-    {
-      "dialectWord": "똥-기주개",
-      "standardWord": "아이",
-      "definition": "어린아이의 똥을 받아 내는 기저귀"
     },
     {
       "dialectWord": "꼬치-친구",
@@ -2216,11 +2021,6 @@
       "dialectWord": "꼬사리-밥",
       "standardWord": "고사리밥",
       "definition": "‘고사리밥’의 방언"
-    },
-    {
-      "dialectWord": "꼰-밥",
-      "standardWord": "밥",
-      "definition": "달걀 껍데기 속에 불린 쌀과 물을 넣어 구워서 익혀 만든 밥"
     },
     {
       "dialectWord": "낶잇-밥",
@@ -2336,11 +2136,6 @@
       "dialectWord": "게기-반찬",
       "standardWord": "고기반찬",
       "definition": "‘고기반찬’의 방언"
-    },
-    {
-      "dialectWord": "메르치-뽂음",
-      "standardWord": "반찬",
-      "definition": "마른 멸치를 양념을 넣고 볶아서 만든 반찬"
     },
     {
       "dialectWord": "갓-짐치",
@@ -2466,11 +2261,6 @@
       "dialectWord": "메물-국시",
       "standardWord": "메밀국수",
       "definition": "‘메밀국수’의 방언"
-    },
-    {
-      "dialectWord": "물-국시",
-      "standardWord": "국수",
-      "definition": "삶은 국수를 마른 멸치 따위를 우려낸 국물에 만 다음 고명을 얹어 먹는 음식"
     },
     {
       "dialectWord": "밀-쩌비",
@@ -2868,11 +2658,6 @@
       "definition": "‘겁먹다’의 방언"
     },
     {
-      "dialectWord": "겅갈-지이다",
-      "standardWord": "먹다",
-      "definition": "남의 것을 욕심내어 공짜로 얻어먹다"
-    },
-    {
       "dialectWord": "공-묵다",
       "standardWord": "공먹다",
       "definition": "‘공먹다’의 방언"
@@ -2936,11 +2721,6 @@
       "dialectWord": "들어-묵다",
       "standardWord": "들어먹다",
       "definition": "‘들어먹다’의 방언"
-    },
-    {
-      "dialectWord": "딲아-묵다",
-      "standardWord": "먹다",
-      "definition": "그릇 따위에 담긴 음식을 남김없이 다 먹다"
     },
     {
       "dialectWord": "떠-묵다",
@@ -3008,21 +2788,6 @@
       "definition": "‘웃다’의 방언"
     },
     {
-      "dialectWord": "맨드리-하다",
-      "standardWord": "조금",
-      "definition": "윤기가 조금 있으면서 부드럽고 매끄러운 듯하다"
-    },
-    {
-      "dialectWord": "무시-전",
-      "standardWord": "조금",
-      "definition": "얇게 썬 무에 소금을 조금 뿌려서 무의 숨을 죽인 다음 되직한 밀가루 반죽을 묻혀서 기름에 부친 전"
-    },
-    {
-      "dialectWord": "보리-사리",
-      "standardWord": "조금",
-      "definition": "봄에 조금 덜 익은 보리를 훔쳐서 불에 구워 손으로 비벼서 먹는 장난"
-    },
-    {
       "dialectWord": "선나치",
       "standardWord": "조금",
       "definition": "‘조금’의 방언"
@@ -3068,16 +2833,6 @@
       "definition": "‘조금’의 방언"
     },
     {
-      "dialectWord": "달이다",
-      "standardWord": "많이",
-      "definition": "진한 꿀이나 단 음식을 많이 먹었을 때 속이 메스껍고 질리는 느낌이 나다"
-    },
-    {
-      "dialectWord": "댈이다",
-      "standardWord": "많이",
-      "definition": "진한 꿀이나 단 음식을 많이 먹었을 때 속이 메스껍고 질리는 느낌이 나다"
-    },
-    {
       "dialectWord": "매이",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
@@ -3121,21 +2876,6 @@
       "dialectWord": "항그시",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
-    },
-    {
-      "dialectWord": "담안-술",
-      "standardWord": "집",
-      "definition": "집에서 직접 담근 술"
-    },
-    {
-      "dialectWord": "못-마당",
-      "standardWord": "집",
-      "definition": "집 모퉁이에 있는 마당"
-    },
-    {
-      "dialectWord": "울밑-논",
-      "standardWord": "집",
-      "definition": "집 가까이에 있는 기름진 논"
     },
     {
       "dialectWord": "개왓-집",
@@ -3198,26 +2938,6 @@
       "definition": "‘학교’의 방언"
     },
     {
-      "dialectWord": "갈롱-지기다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "갈롱-지이다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "깔롱-지기다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
-      "dialectWord": "깔롱-지이다",
-      "standardWord": "옷",
-      "definition": "옷매무새 등을 신경 쓰며 멋을 부리다"
-    },
-    {
       "dialectWord": "가람-옷",
       "standardWord": "갈음옷",
       "definition": "‘갈음옷’의 방언"
@@ -3278,16 +2998,6 @@
       "definition": "‘털옷’의 방언"
     },
     {
-      "dialectWord": "돈-구디이",
-      "standardWord": "돈",
-      "definition": "돈이 가득 차 있는 구덩이라는 뜻으로, 매우 많은 돈을 이르는 말"
-    },
-    {
-      "dialectWord": "돈-재이",
-      "standardWord": "돈",
-      "definition": "돈이 아주 많은 사람을 낮잡아 이르는 말"
-    },
-    {
       "dialectWord": "꺼시름-돈",
       "standardWord": "거스름돈",
       "definition": "‘거스름돈’의 방언"
@@ -3296,11 +3006,6 @@
       "dialectWord": "껌은-돈",
       "standardWord": "검은돈",
       "definition": "‘검은돈’의 방언"
-    },
-    {
-      "dialectWord": "꼻다",
-      "standardWord": "돈",
-      "definition": "노름 따위에서 돈을 잃다"
     },
     {
       "dialectWord": "끝-전",
@@ -3361,11 +3066,6 @@
       "dialectWord": "돈-베락",
       "standardWord": "돈벼락",
       "definition": "‘돈벼락’의 방언"
-    },
-    {
-      "dialectWord": "돈-사다",
-      "standardWord": "돈",
-      "definition": "쌀, 콩, 팥 따위의 곡식을 팔아 돈을 장만하다"
     },
     {
       "dialectWord": "돈-지네",
@@ -3520,11 +3220,6 @@
       "definition": "‘시아버지’의 방언"
     },
     {
-      "dialectWord": "시채-큰아부지",
-      "standardWord": "아버지",
-      "definition": "아버지의 셋째 형을 이르는 말"
-    },
-    {
       "dialectWord": "씨-아바니",
       "standardWord": "시아버지",
       "definition": "‘시아버지’의 방언"
@@ -3670,11 +3365,6 @@
       "definition": "‘계집아이’의 방언"
     },
     {
-      "dialectWord": "공-시미",
-      "standardWord": "아이",
-      "definition": "윤달에 태어난 아이"
-    },
-    {
       "dialectWord": "깟난-애기",
       "standardWord": "갓난아이",
       "definition": "‘갓난아이’의 방언"
@@ -3683,11 +3373,6 @@
       "dialectWord": "깟난-이",
       "standardWord": "갓난아이",
       "definition": "‘갓난아이’의 방언"
-    },
-    {
-      "dialectWord": "두덕-바지",
-      "standardWord": "아이",
-      "definition": "남자 아이에게 입히는 두렁이"
     },
     {
       "dialectWord": "머스마그",
@@ -3785,11 +3470,6 @@
       "definition": "‘찬밥’의 방언"
     },
     {
-      "dialectWord": "올베-차리",
-      "standardWord": "밥",
-      "definition": "오례쌀로 지은 밥으로 지내는 차례"
-    },
-    {
       "dialectWord": "국-몰국",
       "standardWord": "국물",
       "definition": "‘국물’의 방언"
@@ -3853,11 +3533,6 @@
       "dialectWord": "겅궤",
       "standardWord": "반찬",
       "definition": "‘반찬’의 방언"
-    },
-    {
-      "dialectWord": "가닥-지",
-      "standardWord": "김치",
-      "definition": "썰지 않고 찢어 먹는 김치"
     },
     {
       "dialectWord": "까지-김치",
@@ -3945,11 +3620,6 @@
       "definition": "‘쇠고기’의 방언"
     },
     {
-      "dialectWord": "여꺼리",
-      "standardWord": "고기",
-      "definition": "작은 물고기를 말리기 위해 줄로 엮은 것"
-    },
-    {
       "dialectWord": "중-괴기",
       "standardWord": "중고기",
       "definition": "‘중고기’의 방언"
@@ -3968,11 +3638,6 @@
       "dialectWord": "떡-석짝",
       "standardWord": "떡고리",
       "definition": "‘떡고리’의 방언"
-    },
-    {
-      "dialectWord": "박-설기",
-      "standardWord": "떡",
-      "definition": "박을 넣고 찐 설기떡"
     },
     {
       "dialectWord": "보깨-떡",
@@ -4033,11 +3698,6 @@
       "dialectWord": "쎄-빠지다",
       "standardWord": "힘들다",
       "definition": "‘힘들다’의 방언"
-    },
-    {
-      "dialectWord": "씸벅씸벅-하다",
-      "standardWord": "아프다",
-      "definition": "자꾸 찌르는 듯이 아프다"
     },
     {
       "dialectWord": "뻐치다",
@@ -4135,11 +3795,6 @@
       "definition": "‘몰려오다’의 방언"
     },
     {
-      "dialectWord": "돌라-묵다",
-      "standardWord": "먹다",
-      "definition": "남의 물건을 속여서 빼돌리거나 남을 속여 먹다"
-    },
-    {
       "dialectWord": "몰아-묵다",
       "standardWord": "말아먹다",
       "definition": "‘말아먹다’의 방언"
@@ -4158,11 +3813,6 @@
       "dialectWord": "뽈아-묵다",
       "standardWord": "빨아먹다",
       "definition": "‘빨아먹다’의 방언"
-    },
-    {
-      "dialectWord": "설더구-하다",
-      "standardWord": "먹다",
-      "definition": "실컷 먹다"
     },
     {
       "dialectWord": "시-묵다",
@@ -4265,19 +3915,9 @@
       "definition": "‘조금’의 방언"
     },
     {
-      "dialectWord": "꼬작",
-      "standardWord": "많이",
-      "definition": "짐을 많이 지기 위하여 지게의 윗부분에 덧세운 두 개의 나무 막대"
-    },
-    {
       "dialectWord": "한나",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
-    },
-    {
-      "dialectWord": "새랍-동냥",
-      "standardWord": "집",
-      "definition": "집집마다 돌아다니며 하는 동냥"
     },
     {
       "dialectWord": "가시낭-탱이",
@@ -4288,11 +3928,6 @@
       "dialectWord": "거떠-쓰다",
       "standardWord": "뒤집어쓰다",
       "definition": "‘뒤집어쓰다’의 방언"
-    },
-    {
-      "dialectWord": "거뜨다",
-      "standardWord": "집",
-      "definition": "한꺼번에 많은 것을 집어 올리다"
     },
     {
       "dialectWord": "건니-집",
@@ -4325,11 +3960,6 @@
       "definition": "‘뒤집다’의 방언"
     },
     {
-      "dialectWord": "당골-래",
-      "standardWord": "집",
-      "definition": "어떤 집안에 전속되거나, 단골로 점을 쳐 주는 점쟁이"
-    },
-    {
       "dialectWord": "되-씨다",
       "standardWord": "뒤집다",
       "definition": "‘뒤집다’의 방언"
@@ -4348,36 +3978,6 @@
       "dialectWord": "두집어-쓰다",
       "standardWord": "뒤집어쓰다",
       "definition": "‘뒤집어쓰다’의 방언"
-    },
-    {
-      "dialectWord": "중-학괴",
-      "standardWord": "중학교",
-      "definition": "‘중학교’의 방언"
-    },
-    {
-      "dialectWord": "학괴",
-      "standardWord": "학교",
-      "definition": "‘학교’의 방언"
-    },
-    {
-      "dialectWord": "핵고",
-      "standardWord": "학교",
-      "definition": "‘학교’의 방언"
-    },
-    {
-      "dialectWord": "핵교",
-      "standardWord": "학교",
-      "definition": "‘학교’의 방언"
-    },
-    {
-      "dialectWord": "고자구-나다",
-      "standardWord": "옷",
-      "definition": "옷을 빨지 않아서 지저분하다"
-    },
-    {
-      "dialectWord": "농-지기",
-      "standardWord": "옷",
-      "definition": "자주 입지 않아 장롱에 오래 넣어둔 낡은 옷"
     },
     {
       "dialectWord": "속-옷고름",
@@ -4413,11 +4013,6 @@
       "dialectWord": "옷-짓",
       "standardWord": "옷깃",
       "definition": "‘옷깃’의 방언"
-    },
-    {
-      "dialectWord": "우장바구",
-      "standardWord": "옷",
-      "definition": "지나치게 큰 옷"
     },
     {
       "dialectWord": "우티",
@@ -4492,19 +4087,9 @@
       "definition": "‘둘째아버지’의 방언"
     },
     {
-      "dialectWord": "셋째-아부지",
-      "standardWord": "아버지",
-      "definition": "아버지의 셋째 형을 이르는 말"
-    },
-    {
       "dialectWord": "시영-아부지",
       "standardWord": "수양아버지",
       "definition": "‘수양아버지’의 방언"
-    },
-    {
-      "dialectWord": "싯째-큰아버지",
-      "standardWord": "아버지",
-      "definition": "아버지의 셋째 형을 이르는 말"
     },
     {
       "dialectWord": "아부지",
@@ -4617,39 +4202,9 @@
       "definition": "‘사내아이’의 방언"
     },
     {
-      "dialectWord": "메주-대가리",
-      "standardWord": "아이",
-      "definition": "미련하고 우둔한 아이를 조롱하여 이르는 말"
-    },
-    {
-      "dialectWord": "삼-날",
-      "standardWord": "아이",
-      "definition": "아이를 낳은 지 사흘째 되는 날"
-    },
-    {
       "dialectWord": "아",
       "standardWord": "아이",
       "definition": "‘아이’의 방언"
-    },
-    {
-      "dialectWord": "아수-타다",
-      "standardWord": "아이",
-      "definition": "동생이 생긴 뒤 아이가 여위다"
-    },
-    {
-      "dialectWord": "저정-스럽다",
-      "standardWord": "아이",
-      "definition": "어린아이가 찬찬하지 못하고 행동에 조심성이 없다"
-    },
-    {
-      "dialectWord": "저정-시럽다",
-      "standardWord": "아이",
-      "definition": "어린아이가 찬찬하지 못하고 행동에 조심성이 없다"
-    },
-    {
-      "dialectWord": "저정-시룹다",
-      "standardWord": "아이",
-      "definition": "어린아이가 찬찬하지 못하고 행동에 조심성이 없다"
     },
     {
       "dialectWord": "갈퀴-밥",
@@ -4712,11 +4267,6 @@
       "definition": "‘찬밥’의 방언"
     },
     {
-      "dialectWord": "요",
-      "standardWord": "밥",
-      "definition": "출타한 가족의 몫으로 떠 놓는 밥"
-    },
-    {
       "dialectWord": "밀-국수",
       "standardWord": "칼국수",
       "definition": "‘칼국수’의 방언"
@@ -4727,16 +4277,6 @@
       "definition": "‘칼국수’의 방언"
     },
     {
-      "dialectWord": "여물-국",
-      "standardWord": "국",
-      "definition": "쇠죽의 국물"
-    },
-    {
-      "dialectWord": "짓잎-국",
-      "standardWord": "국",
-      "definition": "절인 배춧잎이나 절인 무청을 삭힌 것으로 끓인 국"
-    },
-    {
       "dialectWord": "짜국",
       "standardWord": "자국",
       "definition": "‘자국’의 방언"
@@ -4745,11 +4285,6 @@
       "dialectWord": "짐치",
       "standardWord": "김치",
       "definition": "‘김치’의 방언"
-    },
-    {
-      "dialectWord": "짓-잎",
-      "standardWord": "김치",
-      "definition": "시원치 않은 배춧잎이나 무청을 소금으로만 간을 하여 익힌 김치"
     },
     {
       "dialectWord": "고기-잽이",
@@ -4775,11 +4310,6 @@
       "dialectWord": "중태기",
       "standardWord": "중고기",
       "definition": "‘중고기’의 방언"
-    },
-    {
-      "dialectWord": "고드래-떡",
-      "standardWord": "떡",
-      "definition": "물기가 말라서 빳빳하게 굳은 떡"
     },
     {
       "dialectWord": "누르미",
@@ -4832,11 +4362,6 @@
       "definition": "‘부엌’의 방언"
     },
     {
-      "dialectWord": "옴팡-간",
-      "standardWord": "부엌",
-      "definition": "방 하나와 부엌 하나만 있는 아주 작고 초라한 집"
-    },
-    {
       "dialectWord": "여쁘다",
       "standardWord": "예쁘다",
       "definition": "‘예쁘다’의 방언"
@@ -4852,24 +4377,9 @@
       "definition": "‘건너가다’의 방언"
     },
     {
-      "dialectWord": "베물리다",
-      "standardWord": "가다",
-      "definition": "돌이나 쇠에 부딪혀 날의 일부가 이지러지거나 떨어져 나가다"
-    },
-    {
-      "dialectWord": "석-가다",
-      "standardWord": "가다",
-      "definition": "윷놀이에서, 석 동째 가다"
-    },
-    {
       "dialectWord": "가지고-오다",
       "standardWord": "가져오다",
       "definition": "‘가져오다’의 방언"
-    },
-    {
-      "dialectWord": "걀금-거리다",
-      "standardWord": "먹다",
-      "definition": "조금씩 갉아 먹다"
     },
     {
       "dialectWord": "지울다",
@@ -4887,11 +4397,6 @@
       "definition": "‘너무’의 방언"
     },
     {
-      "dialectWord": "걀금-거리다",
-      "standardWord": "조금",
-      "definition": "조금씩 갉아 먹다"
-    },
-    {
       "dialectWord": "째끔",
       "standardWord": "조금",
       "definition": "‘조금’의 방언"
@@ -4902,24 +4407,9 @@
       "definition": "‘조금’의 방언"
     },
     {
-      "dialectWord": "꼬작",
-      "standardWord": "많이",
-      "definition": "짐을 많이 지기 위하여 지게의 윗부분에 덧세운 두 개의 나무 막대"
-    },
-    {
       "dialectWord": "마이",
       "standardWord": "많이",
       "definition": "‘많이’의 방언"
-    },
-    {
-      "dialectWord": "물마-지다",
-      "standardWord": "많이",
-      "definition": "비가 많이 와서 물에 잠기거나 휩쓸리다"
-    },
-    {
-      "dialectWord": "가용-푼",
-      "standardWord": "집",
-      "definition": "집안 살림이나 생활을 하는 데 드는 얼마 되지 않는 돈"
     },
     {
       "dialectWord": "개와-집",
@@ -4957,11 +4447,6 @@
       "definition": "‘집게손가락’의 방언"
     },
     {
-      "dialectWord": "모조",
-      "standardWord": "집",
-      "definition": "농촌에서 이장이나 반장이 집집마다 추렴하여 받는 수고비"
-    },
-    {
       "dialectWord": "애-떼기",
       "standardWord": "고집",
       "definition": "‘고집’의 방언"
@@ -4970,11 +4455,6 @@
       "dialectWord": "오도막-집",
       "standardWord": "오두막집",
       "definition": "‘오두막집’의 방언"
-    },
-    {
-      "dialectWord": "옴팡-간",
-      "standardWord": "집",
-      "definition": "방 하나와 부엌 하나만 있는 아주 작고 초라한 집"
     },
     {
       "dialectWord": "자-집",
@@ -4997,16 +4477,6 @@
       "definition": "‘족집게’의 방언"
     },
     {
-      "dialectWord": "채-널다",
-      "standardWord": "집",
-      "definition": "말리려고 널어놓은 것을 뒤집어서 다시 널다"
-    },
-    {
-      "dialectWord": "틀-개",
-      "standardWord": "집",
-      "definition": "두 사람이나 두 집안 간의 사이가 벌어져 틀어짐"
-    },
-    {
       "dialectWord": "중-핵교",
       "standardWord": "중학교",
       "definition": "‘중학교’의 방언"
@@ -5015,16 +4485,6 @@
       "dialectWord": "핵교",
       "standardWord": "학교",
       "definition": "‘학교’의 방언"
-    },
-    {
-      "dialectWord": "풍덩-하다",
-      "standardWord": "옷",
-      "definition": "옷이나 마음 따위가 매우 넉넉하다"
-    },
-    {
-      "dialectWord": "노배기",
-      "standardWord": "옷",
-      "definition": "비 따위를 맞아 옷이나 몸이 흠뻑 젖은 상태"
     },
     {
       "dialectWord": "옷-거름",
@@ -5045,11 +4505,6 @@
       "dialectWord": "접-옷",
       "standardWord": "겹옷",
       "definition": "‘겹옷’의 방언&lt;DR /&gt; 제주 지역에서는 ‘옷’으로도 적는다."
-    },
-    {
-      "dialectWord": "가용-푼",
-      "standardWord": "돈",
-      "definition": "집안 살림이나 생활을 하는 데 드는 얼마 되지 않는 돈"
     },
     {
       "dialectWord": "거시럼-돈",
@@ -5149,11 +4604,6 @@
       "definition": "‘어머니’의 방언"
     },
     {
-      "dialectWord": "에미-율이",
-      "standardWord": "어머니",
-      "definition": "어머니가 없는 아이를 낮잡아 이르는 말"
-    },
-    {
       "dialectWord": "원-어멍",
       "standardWord": "친어머니",
       "definition": "‘친어머니’의 방언"
@@ -5229,11 +4679,6 @@
       "definition": "‘둘째아버지’의 방언"
     },
     {
-      "dialectWord": "말쨋-아바지",
-      "standardWord": "아버지",
-      "definition": "아버지의 셋째 형을 이르는 말"
-    },
-    {
       "dialectWord": "성준-아방",
       "standardWord": "친아버지",
       "definition": "‘친아버지’의 방언"
@@ -5254,19 +4699,59 @@
       "definition": "‘둘째아버지’의 방언"
     },
     {
-      "dialectWord": "셋쨋-아바지",
-      "standardWord": "아버지",
-      "definition": "아버지의 셋째 형을 이르는 말"
-    },
-    {
       "dialectWord": "수양-아방",
       "standardWord": "수양아버지",
       "definition": "‘수양아버지’의 방언"
     },
     {
-      "dialectWord": "숫-하르방",
-      "standardWord": "아버지",
-      "definition": "성품이 어질고 우직한 할아버지"
+      "dialectWord": "웨-하르방",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "처-하르방",
+      "standardWord": "가시할아버지",
+      "definition": "‘가시할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하루방",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르바지",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르방",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르버지",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르비",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하리방",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하리비",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "할아바지",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
     },
     {
       "dialectWord": "가시-할망",
@@ -5319,11 +4804,6 @@
       "definition": "‘가시할머니’의 방언"
     },
     {
-      "dialectWord": "치샛-메",
-      "standardWord": "할머니",
-      "definition": "아기를 분만한 다음 삼신할머니에게 올리는 메"
-    },
-    {
       "dialectWord": "할마니",
       "standardWord": "할머니",
       "definition": "‘할머니’의 방언"
@@ -5334,44 +4814,49 @@
       "definition": "‘할머니’의 방언"
     },
     {
+      "dialectWord": "곤-아기",
+      "standardWord": "갓난아이",
+      "definition": "‘갓난아이’의 방언"
+    },
+    {
+      "dialectWord": "곤-애기",
+      "standardWord": "갓난아이",
+      "definition": "‘갓난아이’의 방언"
+    },
+    {
+      "dialectWord": "기집-아의",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "기집-아이",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "두리-아기",
+      "standardWord": "어린아이",
+      "definition": "‘어린아이’의 방언"
+    },
+    {
+      "dialectWord": "두린-아이",
+      "standardWord": "어린아이",
+      "definition": "‘어린아이’의 방언"
+    },
+    {
+      "dialectWord": "두린-애기",
+      "standardWord": "어린아이",
+      "definition": "‘어린아이’의 방언"
+    },
+    {
+      "dialectWord": "떼간-아이",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
       "dialectWord": "친귀",
       "standardWord": "친구",
       "definition": "‘친구’의 방언"
-    },
-    {
-      "dialectWord": "밥-께",
-      "standardWord": "밥",
-      "definition": "밥으로 만든 풀을 옷감에 먹였을 때 드러나는 밥알의 찌꺼기"
-    },
-    {
-      "dialectWord": "밥-도고리",
-      "standardWord": "밥",
-      "definition": "밥을 담는 큰 함지박"
-    },
-    {
-      "dialectWord": "밥-박세기",
-      "standardWord": "밥",
-      "definition": "밥을 담기 위해 나무로 만든 작은 바가지"
-    },
-    {
-      "dialectWord": "밥-체시",
-      "standardWord": "밥",
-      "definition": "밥을 많이 먹어 치우는 사람"
-    },
-    {
-      "dialectWord": "쉰-다리",
-      "standardWord": "밥",
-      "definition": "밥과 누룩으로 담가 만든 여름철 음료"
-    },
-    {
-      "dialectWord": "풀-께",
-      "standardWord": "밥",
-      "definition": "밥으로 만든 풀을 옷감에 먹였을 때 드러나는 밥알의 찌꺼기"
-    },
-    {
-      "dialectWord": "가대-밥",
-      "standardWord": "밥",
-      "definition": "제주조릿대 열매로 지은 밥&lt;DR /&gt; 제주 지역에서는 ‘대밥’으로도 적는다."
     },
     {
       "dialectWord": "가마귀-연줄",
@@ -5387,16 +4872,6 @@
       "dialectWord": "가마귀-웨줄",
       "standardWord": "괭이밥",
       "definition": "‘괭이밥’의 방언"
-    },
-    {
-      "dialectWord": "가마기-웨",
-      "standardWord": "밥",
-      "definition": "괭이밥의 열매"
-    },
-    {
-      "dialectWord": "가메기-웨",
-      "standardWord": "밥",
-      "definition": "괭이밥의 열매"
     },
     {
       "dialectWord": "감쥣-주시",
@@ -5424,39 +4899,9 @@
       "definition": "‘쌀밥’의 방언"
     },
     {
-      "dialectWord": "골-감주",
-      "standardWord": "밥",
-      "definition": "엿기름을 우린 물에 조밥을 섞어 삭힌 다음 끓이지 않고 그냥 먹는 감주"
-    },
-    {
-      "dialectWord": "골-감쥐",
-      "standardWord": "밥",
-      "definition": "엿기름을 우린 물에 조밥을 섞어 삭힌 다음 끓이지 않고 그냥 먹는 감주"
-    },
-    {
       "dialectWord": "굴룬-밥",
       "standardWord": "군밥",
       "definition": "‘군밥’의 방언"
-    },
-    {
-      "dialectWord": "듬박-하다",
-      "standardWord": "국",
-      "definition": "국 따위에 건더기가 많이 들어 있어 국물이 진하고 깊은 맛이 있다&lt;DR /&gt; 제주 지역에서는 ‘듬박다’로도 적는다."
-    },
-    {
-      "dialectWord": "가믓",
-      "standardWord": "국",
-      "definition": "경계가 되는 줄을 친 자국&lt;DR /&gt; 제주 지역에서는 ‘믓’으로도 적는다."
-    },
-    {
-      "dialectWord": "개자리-국",
-      "standardWord": "국",
-      "definition": "개자리를 넣어 끓인 된장국"
-    },
-    {
-      "dialectWord": "고낭귀-국",
-      "standardWord": "국",
-      "definition": "닭의장풀의 어린순을 넣고 된장을 풀어 끓인 국"
     },
     {
       "dialectWord": "구엣-꽃",
@@ -5477,16 +4922,6 @@
       "dialectWord": "국시",
       "standardWord": "국수",
       "definition": "‘국수’의 방언"
-    },
-    {
-      "dialectWord": "금",
-      "standardWord": "국",
-      "definition": "경계가 되는 줄을 친 자국&lt;DR /&gt; 제주 지역에서는 ‘’으로도 적는다."
-    },
-    {
-      "dialectWord": "깅이-죽",
-      "standardWord": "국",
-      "definition": "흰쌀을 물에 불리어 반쯤 으깬 후에 게를 빻아 국물을 내고, 그 국물을 넣어 끓인 죽"
     },
     {
       "dialectWord": "나물-쿡",
@@ -5519,16 +4954,6 @@
       "definition": "‘국자’의 방언"
     },
     {
-      "dialectWord": "남-자",
-      "standardWord": "국",
-      "definition": "나무로 만든 국자"
-    },
-    {
-      "dialectWord": "너패-국",
-      "standardWord": "국",
-      "definition": "넓패를 넗고 끓인 국"
-    },
-    {
       "dialectWord": "노곡",
       "standardWord": "노국",
       "definition": "‘노국’의 방언"
@@ -5537,36 +4962,6 @@
       "dialectWord": "놈삐-국",
       "standardWord": "뭇국",
       "definition": "‘뭇국’의 방언&lt;DR /&gt; 제주 지역에서는 ‘삐국’으로도 적는다."
-    },
-    {
-      "dialectWord": "나물-체",
-      "standardWord": "반찬",
-      "definition": "배추나 무의 잎 따위를 채 썰어 익히고 간장, 참기름, 깨 따위를 넣어 무쳐 만든 반찬&lt;DR /&gt; 제주 지역에서는 ‘체’, ‘물체’로도 적는다."
-    },
-    {
-      "dialectWord": "몸-지",
-      "standardWord": "반찬",
-      "definition": "마른 모자반을 간장에 담가 만든 반찬&lt;DR /&gt; 제주 지역에서는 ‘지’로도 적는다."
-    },
-    {
-      "dialectWord": "몸-지시",
-      "standardWord": "반찬",
-      "definition": "마른 모자반을 간장에 담가 만든 반찬&lt;DR /&gt; 제주 지역에서는 ‘지시’로도 적는다."
-    },
-    {
-      "dialectWord": "몸-채",
-      "standardWord": "반찬",
-      "definition": "모자반을 끓는 물에 데쳐서 양념한 반찬&lt;DR /&gt; 제주 지역에서는 ‘채’로도 적는다."
-    },
-    {
-      "dialectWord": "몸-치",
-      "standardWord": "반찬",
-      "definition": "마른 모자반을 간장에 담가 만든 반찬&lt;DR /&gt; 제주 지역에서는 ‘치’로도 적는다."
-    },
-    {
-      "dialectWord": "몸-치의",
-      "standardWord": "반찬",
-      "definition": "마른 모자반을 간장에 담가 만든 반찬&lt;DR /&gt; 제주 지역에서는 ‘치의’로도 적는다."
     },
     {
       "dialectWord": "반창",
@@ -5619,39 +5014,9 @@
       "definition": "‘김치’의 방언"
     },
     {
-      "dialectWord": "가들락-하다",
-      "standardWord": "고기",
-      "definition": "물고기 따위가 싱싱해서 굽거나 비뚤어지지 아니하고 똑바르다&lt;DR /&gt; 제주 지역에서는 ‘들락다’로도 적는다."
-    },
-    {
-      "dialectWord": "갓-궤기",
-      "standardWord": "고기",
-      "definition": "깊지 않은 바다에서 잡히는 물고기&lt;DR /&gt; 제주 지역에서는 ‘궤기’로도 적는다."
-    },
-    {
       "dialectWord": "개갓-궤기",
       "standardWord": "바닷물고기",
       "definition": "‘바닷물고기’의 방언&lt;DR /&gt; 제주 지역에서는 ‘개궤기’로도 적는다."
-    },
-    {
-      "dialectWord": "거리다",
-      "standardWord": "고기",
-      "definition": "자잘한 물고기 따위를 그물로 잡아 올리다"
-    },
-    {
-      "dialectWord": "건장-낚시",
-      "standardWord": "고기",
-      "definition": "바늘 없는 낚시를 사오십여 개를 달아 전갱이를 낚으려고 던지는 고기잡이 도구"
-    },
-    {
-      "dialectWord": "걸물-궤기",
-      "standardWord": "고기",
-      "definition": "서식처가 일정하지 않아서 바다 이곳저곳을 돌아다니는 갈치나 복어 따위의 물고기"
-    },
-    {
-      "dialectWord": "고기-장서",
-      "standardWord": "고기",
-      "definition": "고기를 파는 일"
     },
     {
       "dialectWord": "고즐멩이",
@@ -5664,24 +5029,9 @@
       "definition": "‘고기’의 방언"
     },
     {
-      "dialectWord": "궤기-구덕",
-      "standardWord": "고기",
-      "definition": "물고기를 잡아 임시로 보관하는 바구니"
-    },
-    {
       "dialectWord": "궤기-잡이",
       "standardWord": "고기잡이",
       "definition": "‘고기잡이’의 방언"
-    },
-    {
-      "dialectWord": "궤기-장사",
-      "standardWord": "고기",
-      "definition": "고기를 파는 일&lt;DR /&gt; 제주 지역에서는 ‘궤기장’로도 적는다."
-    },
-    {
-      "dialectWord": "궤기-장시",
-      "standardWord": "고기",
-      "definition": "고기를 파는 사람"
     },
     {
       "dialectWord": "껑-궤기",
@@ -5689,34 +5039,9 @@
       "definition": "‘꿩고기’의 방언"
     },
     {
-      "dialectWord": "난셍이",
-      "standardWord": "고기",
-      "definition": "조기강 농어목의 한 과인 다동가릿과 물고기를 이르는 말. 아홉동가리, 여덟동가리 따위가 있다&lt;DR /&gt; 제주 지역에서는 ‘셍이’로도 적는다."
-    },
-    {
-      "dialectWord": "난젱이",
-      "standardWord": "고기",
-      "definition": "조기강 농어목의 한 과인 다동가릿과 물고기를 이르는 말. 아홉동가리, 여덟동가리 따위가 있다&lt;DR /&gt; 제주 지역에서는 ‘젱이’로도 적는다."
-    },
-    {
       "dialectWord": "날-궤기",
       "standardWord": "날고기",
       "definition": "‘날고기’의 방언&lt;DR /&gt; 제주 지역에서는 ‘궤기’로도 적는다."
-    },
-    {
-      "dialectWord": "내육심",
-      "standardWord": "고기",
-      "definition": "갈비뼈 따위의 안 속 고기"
-    },
-    {
-      "dialectWord": "논젱이",
-      "standardWord": "고기",
-      "definition": "조기강 농어목의 한 과인 다동가릿과 물고기를 이르는 말. 아홉동가리, 여덟동가리 따위가 있다"
-    },
-    {
-      "dialectWord": "눈젱이",
-      "standardWord": "고기",
-      "definition": "조기강 농어목의 한 과인 다동가릿과 물고기를 이르는 말. 아홉동가리, 여덟동가리 따위가 있다"
     },
     {
       "dialectWord": "모멀-국시",
@@ -5744,36 +5069,6 @@
       "definition": "‘틀국수’의 방언"
     },
     {
-      "dialectWord": "말싹-하다",
-      "standardWord": "떡",
-      "definition": "떡이나 반죽 따위가 말랑하다&lt;DR /&gt; 제주 지역에서는 ‘싹다’로도 적는다."
-    },
-    {
-      "dialectWord": "오분작-호멩이",
-      "standardWord": "떡",
-      "definition": "떡조개를 잡을 때 쓰는 호미같이 생긴 도구"
-    },
-    {
-      "dialectWord": "오분재기-조락",
-      "standardWord": "떡",
-      "definition": "떡조개를 잡아 넣는 대바구니"
-    },
-    {
-      "dialectWord": "펜-데",
-      "standardWord": "떡",
-      "definition": "떡을 괴어 올리는 큰 쟁반 따위를 이르는 말"
-    },
-    {
-      "dialectWord": "가문-떡",
-      "standardWord": "떡",
-      "definition": "집안에 초상이 났을 때 친척이 만들어 가는 부조 떡"
-    },
-    {
-      "dialectWord": "가웃-가웃",
-      "standardWord": "떡",
-      "definition": "몹시 더워서 헐떡헐떡하는 모양"
-    },
-    {
       "dialectWord": "가웃-가웃",
       "standardWord": "헐떡헐떡",
       "definition": "‘헐떡헐떡’의 방언&lt;DR /&gt; 제주 지역에서는 ‘웃웃’으로도 적는다."
@@ -5784,19 +5079,9 @@
       "definition": "‘헐떡헐떡’의 방언&lt;DR /&gt; 제주 지역에서는 ‘읏읏’으로도 적는다."
     },
     {
-      "dialectWord": "가읏가읏-하다",
-      "standardWord": "떡",
-      "definition": "몹시 덥거나 숨이 차서 헐떡거리다&lt;DR /&gt; 제주 지역에서는 ‘읏읏다’로도 적는다."
-    },
-    {
       "dialectWord": "갈미-떡",
       "standardWord": "가래떡",
       "definition": "‘가래떡’의 방언&lt;DR /&gt; 제주 지역에서는 ‘미떡’으로도 적는다."
-    },
-    {
-      "dialectWord": "개-떡",
-      "standardWord": "떡",
-      "definition": "초상 치를 때, 메밀가루나 밀가루를 찬물에 반죽하여 장방형으로 만들어 먹는 떡"
     },
     {
       "dialectWord": "거딱-거딱",
@@ -5809,49 +5094,9 @@
       "definition": "‘꺼떡거리다’의 방언&lt;DR /&gt; 제주 지역에서는 ‘거딱거딱다’로도 적는다."
     },
     {
-      "dialectWord": "거스름-떡",
-      "standardWord": "떡",
-      "definition": "사돈집에 처음으로 해 가는 떡"
-    },
-    {
-      "dialectWord": "고달-단떡",
-      "standardWord": "떡",
-      "definition": "찹쌀가루를 익반죽하여 안반에 놓고 밀어서 떡쌀로 찍은 뒤 기름에 지져 설탕이나 조청을 바르고 고명을 얹은 떡&lt;DR /&gt; 제주 지역에서는 ‘고달떡’으로도 적는다."
-    },
-    {
-      "dialectWord": "고달-떡",
-      "standardWord": "떡",
-      "definition": "찹쌀가루를 익반죽하여 안반에 놓고 밀어서 떡쌀로 찍은 뒤 기름에 지져 설탕이나 조청을 바르고 고명을 얹은 떡"
-    },
-    {
       "dialectWord": "고세-떡",
       "standardWord": "고사떡",
       "definition": "‘고사떡’의 방언"
-    },
-    {
-      "dialectWord": "고장-떡",
-      "standardWord": "떡",
-      "definition": "쌀가루로 동그랗게 만들어 톱니처럼 낸 둘레에 붉은 물을 칠한 떡"
-    },
-    {
-      "dialectWord": "고적",
-      "standardWord": "떡",
-      "definition": "집안에 초상이 났을 때 친척이 만들어 가는 부조 떡"
-    },
-    {
-      "dialectWord": "고랑-체",
-      "standardWord": "부엌",
-      "definition": "제주도 초가에서, 마루에서 부엌으로 통하는 문 옆에 있는 작은 공간"
-    },
-    {
-      "dialectWord": "고랑-케",
-      "standardWord": "부엌",
-      "definition": "제주도 초가에서, 마루에서 부엌으로 통하는 문 옆에 있는 작은 공간"
-    },
-    {
-      "dialectWord": "고랑케-구들",
-      "standardWord": "부엌",
-      "definition": "제주도 초가에서, 마루에서 부엌으로 통하는 문 옆에 있는 작은 공간에 꾸민 방"
     },
     {
       "dialectWord": "정지",
@@ -5864,11 +5109,6 @@
       "definition": "‘부엌문’의 방언"
     },
     {
-      "dialectWord": "쳇-방",
-      "standardWord": "부엌",
-      "definition": "마루와 부엌 사이의 작은 마루. 보통 여기서 식사를 한다"
-    },
-    {
       "dialectWord": "얼다",
       "standardWord": "춥다",
       "definition": "‘춥다’의 방언"
@@ -5879,24 +5119,9 @@
       "definition": "‘잦히다’의 방언&lt;DR /&gt; 제주 지역에서는 ‘춥다’로도 적는다."
     },
     {
-      "dialectWord": "낫-두덥다",
-      "standardWord": "덥다",
-      "definition": "얼굴 바닥이 보통의 정도보다 크다&lt;DR /&gt; 제주 지역에서는 ‘두덥다’로도 적는다."
-    },
-    {
       "dialectWord": "미더럽다",
       "standardWord": "미덥다",
       "definition": "‘미덥다’의 방언"
-    },
-    {
-      "dialectWord": "가려-가다",
-      "standardWord": "가다",
-      "definition": "앞질러 바삐 가다&lt;DR /&gt; 제주 지역에서는 ‘려가다’로도 적는다."
-    },
-    {
-      "dialectWord": "갈겨-가다",
-      "standardWord": "가다",
-      "definition": "앞질러 바삐 가다&lt;DR /&gt; 제주 지역에서는 ‘겨가다’로도 적는다."
     },
     {
       "dialectWord": "떠-나려가다",
@@ -5919,54 +5144,9 @@
       "definition": "‘가다가’의 방언"
     },
     {
-      "dialectWord": "가로-가다",
-      "standardWord": "가다",
-      "definition": "따로따로 갈라져서 가다"
-    },
-    {
       "dialectWord": "가불다",
       "standardWord": "한물가다",
       "definition": "‘한물가다’의 방언"
-    },
-    {
-      "dialectWord": "거리다",
-      "standardWord": "가다",
-      "definition": "나뭇가지 따위가 여러 갈래로 갈라져 나가다"
-    },
-    {
-      "dialectWord": "걸려-가다",
-      "standardWord": "가다",
-      "definition": "마소나 돼지 따위를 줄로 매어 끌고 가다"
-    },
-    {
-      "dialectWord": "곱-숨비다",
-      "standardWord": "가다",
-      "definition": "해녀가 물질을 할 때 물속에서 나와 숨을 내쉰 뒤 도로 물속으로 들어가다"
-    },
-    {
-      "dialectWord": "끗다",
-      "standardWord": "가다",
-      "definition": "큰물이 휩쓸고 지나가다"
-    },
-    {
-      "dialectWord": "내벋다",
-      "standardWord": "가다",
-      "definition": "어떤 일의 혐의자로 몰릴 때에 그런 사실이 없다는 주장을 계속 펼쳐 나가다"
-    },
-    {
-      "dialectWord": "내쎄만정-하다",
-      "standardWord": "가다",
-      "definition": "나는 지금까지 있는 힘을 다했으므로 다음부터는 더할 힘도 능력도 없다고 하며 그대로 버텨 나가다&lt;DR /&gt; 제주 지역에서는 ‘내쎄만정다’로도 적는다."
-    },
-    {
-      "dialectWord": "내쎄망정-하다",
-      "standardWord": "가다",
-      "definition": "나는 지금까지 있는 힘을 다했으므로 다음부터는 더할 힘도 능력도 없다고 하며 그대로 버텨 나가다&lt;DR /&gt; 제주 지역에서는 ‘내쎄망정다’로도 적는다."
-    },
-    {
-      "dialectWord": "낼쎄망정-하다",
-      "standardWord": "가다",
-      "definition": "나는 지금까지 있는 힘을 다했으므로 다음부터는 더할 힘도 능력도 없다고 하며 그대로 버텨 나가다&lt;DR /&gt; 제주 지역에서는 ‘낼쎄망정다’로도 적는다."
     },
     {
       "dialectWord": "넘어-가다",
@@ -5979,11 +5159,6 @@
       "definition": "‘들어가다’의 방언"
     },
     {
-      "dialectWord": "마투다",
-      "standardWord": "가다",
-      "definition": "불이 더디게 타들어 가다&lt;DR /&gt; 제주 지역에서는 ‘투다’로도 적는다."
-    },
-    {
       "dialectWord": "멍어리",
       "standardWord": "가다랑어",
       "definition": "‘가다랑어’의 방언"
@@ -5994,49 +5169,9 @@
       "definition": "‘가져오다’의 방언&lt;DR /&gt; 제주 지역에서는 ‘져오다’로도 적는다."
     },
     {
-      "dialectWord": "가져-들이다",
-      "standardWord": "오다",
-      "definition": "물건 따위를 안으로 가져오다&lt;DR /&gt; 제주 지역에서는 ‘져들이다’로도 적는다."
-    },
-    {
-      "dialectWord": "건득건득-하다",
-      "standardWord": "오다",
-      "definition": "이따금 바람이 거칠게 불어오다&lt;DR /&gt; 제주 지역에서는 ‘건득건득다’로도 적는다."
-    },
-    {
-      "dialectWord": "나다",
-      "standardWord": "오다",
-      "definition": "날이나 달, 계절 따위가 되거나 돌아오다"
-    },
-    {
-      "dialectWord": "나롯-나리다",
-      "standardWord": "오다",
-      "definition": "산에서 내려오다&lt;DR /&gt; 제주 지역에서는 ‘롯리다’로도 적는다."
-    },
-    {
-      "dialectWord": "내-싸다",
-      "standardWord": "오다",
-      "definition": "주로 젖먹이가 있는 아기 엄마의 젖이 불어 뿜어 나오다"
-    },
-    {
-      "dialectWord": "내-쓰다",
-      "standardWord": "오다",
-      "definition": "주로 젖먹이가 있는 아기 엄마의 젖이 불어 뿜어 나오다"
-    },
-    {
       "dialectWord": "더러-오다",
       "standardWord": "데려오다",
       "definition": "‘데려오다’의 방언"
-    },
-    {
-      "dialectWord": "멜-들다",
-      "standardWord": "오다",
-      "definition": "멸치들이 바닷가 근처로 몰려오다"
-    },
-    {
-      "dialectWord": "아져-들이다",
-      "standardWord": "오다",
-      "definition": "밖에서 안으로 가져오다&lt;DR /&gt; 제주 지역에서는 ‘져들이다’로도 적는다."
     },
     {
       "dialectWord": "앗아-오다",
@@ -6044,19 +5179,9 @@
       "definition": "‘가져오다’의 방언"
     },
     {
-      "dialectWord": "우찌다",
-      "standardWord": "오다",
-      "definition": "바람이 불고 비가 오다"
-    },
-    {
       "dialectWord": "을러-오다",
       "standardWord": "몰려오다",
       "definition": "‘몰려오다’의 방언"
-    },
-    {
-      "dialectWord": "젓-갈르다",
-      "standardWord": "오다",
-      "definition": "짐승의 새끼가 어미의 젖 먹기를 그치고 따로 갈라져 나오다&lt;DR /&gt; 제주 지역에서는 ‘갈르다’로도 적는다."
     },
     {
       "dialectWord": "튀어-오다",
@@ -6067,16 +5192,6 @@
       "dialectWord": "잠아-먹다",
       "standardWord": "말아먹다",
       "definition": "‘말아먹다’의 방언&lt;DR /&gt; 제주 지역에서는 ‘아먹다’로도 적는다."
-    },
-    {
-      "dialectWord": "집아-먹다",
-      "standardWord": "먹다",
-      "definition": "젓가락이나 손가락으로 집어서 먹다&lt;DR /&gt; 제주 지역에서는 ‘아먹다’로도 적는다."
-    },
-    {
-      "dialectWord": "가그극-하다",
-      "standardWord": "먹다",
-      "definition": "감정이 매우 상했을 때, 또는 결심 따위를 굳힐 때 마음을 굳게 먹다&lt;DR /&gt; 제주 지역에서는 ‘그극다’로도 적는다."
     },
     {
       "dialectWord": "가는귀-막다",
@@ -6114,11 +5229,6 @@
       "definition": "‘비루먹다’의 방언"
     },
     {
-      "dialectWord": "뒤-치",
-      "standardWord": "먹다",
-      "definition": "마소가 먹다가 남은 꼴의 찌꺼기"
-    },
-    {
       "dialectWord": "들러-먹다",
       "standardWord": "퍼먹다",
       "definition": "‘퍼먹다’의 방언"
@@ -6152,16 +5262,6 @@
       "dialectWord": "복-먹다",
       "standardWord": "물먹다",
       "definition": "‘물먹다’의 방언"
-    },
-    {
-      "dialectWord": "복물-먹다",
-      "standardWord": "먹다",
-      "definition": "물에 빠져서 물을 먹다"
-    },
-    {
-      "dialectWord": "쉐-데추",
-      "standardWord": "먹다",
-      "definition": "소가 먹다가 남은 꼴의 찌꺼기"
     },
     {
       "dialectWord": "자진닥-울다",
@@ -6229,349 +5329,9 @@
       "definition": "‘너무’의 방언"
     },
     {
-      "dialectWord": "목-차다",
-      "standardWord": "너무",
-      "definition": "어떤 일이 너무 많고 중대하여 힘에 부치다"
-    },
-    {
-      "dialectWord": "숫-두리왜",
-      "standardWord": "너무",
-      "definition": "너무 숫되고 어리벙벙한 짓을 잘하는 사람"
-    },
-    {
-      "dialectWord": "시치렁-하다",
-      "standardWord": "너무",
-      "definition": "너무 선선하여 조금 추운 듯하다&lt;DR /&gt; 제주 지역에서는 ‘시치렁다’로도 적는다."
-    },
-    {
-      "dialectWord": "어마떵어리",
-      "standardWord": "너무",
-      "definition": "너무 놀라운 일을 보았을 때 내는 소리"
-    },
-    {
-      "dialectWord": "얼랍-지다",
-      "standardWord": "너무",
-      "definition": "음식이나 일을 너무 탐내어 정신없이 서두르다"
-    },
-    {
-      "dialectWord": "얼합-지다",
-      "standardWord": "너무",
-      "definition": "음식이나 일을 너무 탐내어 정신없이 서두르다"
-    },
-    {
-      "dialectWord": "여산-젱이",
-      "standardWord": "너무",
-      "definition": "너무 깊이 생각하고 따지는 사람"
-    },
-    {
-      "dialectWord": "예산-젱이",
-      "standardWord": "너무",
-      "definition": "너무 깊이 생각하고 따지는 사람"
-    },
-    {
-      "dialectWord": "지레-그차지다",
-      "standardWord": "너무",
-      "definition": "너무 우스워서 지라가 끊어질 정도가 되다"
-    },
-    {
-      "dialectWord": "가미용-하다",
-      "standardWord": "조금",
-      "definition": "어두운 가운데 조금 빛이 있는 듯하다&lt;DR /&gt; 제주 지역에서는 ‘미용다’로도 적는다."
-    },
-    {
-      "dialectWord": "가쎄",
-      "standardWord": "조금",
-      "definition": "조금 전에&lt;DR /&gt; 제주 지역에서는 ‘쎄’로도 적는다."
-    },
-    {
-      "dialectWord": "갈쿠랑-하다",
-      "standardWord": "조금",
-      "definition": "몸의 살이 빠져 조금 파리하다&lt;DR /&gt; 제주 지역에서는 ‘갈쿠랑다’로도 적는다."
-    },
-    {
-      "dialectWord": "걸쿠랑-하다",
-      "standardWord": "조금",
-      "definition": "몸의 살이 빠져 조금 파리하다&lt;DR /&gt; 제주 지역에서는 ‘걸쿠랑다’로도 적는다."
-    },
-    {
-      "dialectWord": "게미용-하다",
-      "standardWord": "조금",
-      "definition": "어두운 가운데 조금 빛이 있는 듯하다&lt;DR /&gt; 제주 지역에서는 ‘게미용다’로도 적는다."
-    },
-    {
-      "dialectWord": "게실-게실",
-      "standardWord": "조금",
-      "definition": "가루 성분으로 된 것이 차진 기는 조금도 없고 아주 메진 모양"
-    },
-    {
-      "dialectWord": "골르라기",
-      "standardWord": "조금",
-      "definition": "담긴 것이 그릇에 가득 차지 아니하고 조금 비게"
-    },
-    {
-      "dialectWord": "눈-감생이",
-      "standardWord": "조금",
-      "definition": "눈이 실눈같이 조금 감겨져 있는 사람"
-    },
-    {
-      "dialectWord": "눈-감세",
-      "standardWord": "조금",
-      "definition": "눈이 실눈같이 조금 감겨 있는 사람&lt;DR /&gt; 제주 지역에서는 ‘눈세’로도 적는다."
-    },
-    {
-      "dialectWord": "눈-감셍이",
-      "standardWord": "조금",
-      "definition": "눈이 실눈같이 조금 감겨 있는 사람&lt;DR /&gt; 제주 지역에서는 ‘눈셍이’로도 적는다."
-    },
-    {
-      "dialectWord": "대-가름체",
-      "standardWord": "조금",
-      "definition": "가는 대나무로 조금 굵게 쳇불을 짜서 만든 체&lt;DR /&gt; 제주 지역에서는 ‘대름체’로도 적는다."
-    },
-    {
-      "dialectWord": "뒷-무뚱",
-      "standardWord": "조금",
-      "definition": "뒷문과 뒷마당 사이에 신발 따위를 벗어 둘 수 있도록 뒷마당보다 조금 높게 만든 공간"
-    },
-    {
-      "dialectWord": "등절미",
-      "standardWord": "조금",
-      "definition": "송편보다 조금 두껍고 크게 만든 떡"
-    },
-    {
-      "dialectWord": "등절비",
-      "standardWord": "조금",
-      "definition": "송편보다 조금 두껍고 크게 만든 떡"
-    },
-    {
-      "dialectWord": "무뚱",
-      "standardWord": "조금",
-      "definition": "처마 밑에 신발 따위를 벗어 둘 수 있도록 마련된 공간. 보통 마당보다 조금 높게 되어 있다"
-    },
-    {
-      "dialectWord": "벤-줄",
-      "standardWord": "조금",
-      "definition": "밀감보다는 조금 작고 병목 모양의 꼭지가 달린 귤."
-    },
-    {
-      "dialectWord": "벵-귤",
-      "standardWord": "조금",
-      "definition": "밀감보다는 조금 작고 병목 모양의 꼭지가 달린 귤"
-    },
-    {
-      "dialectWord": "볼겡-이",
-      "standardWord": "조금",
-      "definition": "머리털 빛깔이 조금 노르스름한 사람"
-    },
-    {
-      "dialectWord": "불겡이",
-      "standardWord": "조금",
-      "definition": "머리털 빛깔이 조금 노르스름한 사람"
-    },
-    {
-      "dialectWord": "산도록-하다",
-      "standardWord": "조금",
-      "definition": "조금 차거나 선선한 느낌이 있다&lt;DR /&gt; 제주 지역에서는 ‘산도록다’로도 적는다."
-    },
-    {
-      "dialectWord": "고새",
-      "standardWord": "많이",
-      "definition": "서리가 많이 내려 땅바닥에 얼어붙은 것"
-    },
-    {
-      "dialectWord": "곤-밥주리",
-      "standardWord": "많이",
-      "definition": "몸과 날개에 푸른빛이 많이 도는 잠자리의 일종"
-    },
-    {
-      "dialectWord": "공들-이",
-      "standardWord": "많이",
-      "definition": "어떤 일을 이루는 데 정성과 노력을 많이 들여"
-    },
-    {
-      "dialectWord": "댕-유지",
-      "standardWord": "많이",
-      "definition": "유자의 한 종류. 크기가 크고 겉이 우툴두툴하나 향기로워 제수로 많이 쓴다"
-    },
-    {
-      "dialectWord": "듬박-하다",
-      "standardWord": "많이",
-      "definition": "국 따위에 건더기가 많이 들어 있어 국물이 진하고 깊은 맛이 있다&lt;DR /&gt; 제주 지역에서는 ‘듬박다’로도 적는다."
-    },
-    {
-      "dialectWord": "머세",
-      "standardWord": "많이",
-      "definition": "돌이 많이 쌓여 있고 잡목이 우거진 곳"
-    },
-    {
-      "dialectWord": "머시",
-      "standardWord": "많이",
-      "definition": "돌이 많이 쌓여 있고 잡목이 우거진 곳&lt;DR /&gt; 제주 지역에서는 ‘시’로도 적는다."
-    },
-    {
-      "dialectWord": "먹씰-일",
-      "standardWord": "많이",
-      "definition": "먹고 쓰고 할 일이라는 뜻으로, 비용이 많이 드는 상사나 혼사 따위를 이르는 말"
-    },
-    {
-      "dialectWord": "메역-바당",
-      "standardWord": "많이",
-      "definition": "미역이 많이 자라는 바다"
-    },
-    {
-      "dialectWord": "멜-거리다",
-      "standardWord": "많이",
-      "definition": "그물을 던져 멸치를 한꺼번에 많이 잡아 올리다"
-    },
-    {
-      "dialectWord": "멜-뜨다",
-      "standardWord": "많이",
-      "definition": "그물을 던져 멸치를 한꺼번에 많이 잡아 올리다"
-    },
-    {
-      "dialectWord": "몸-팟",
-      "standardWord": "많이",
-      "definition": "모자반이 많이 나는 곳&lt;DR /&gt; 제주 지역에서는 ‘팟’으로도 적는다."
-    },
-    {
-      "dialectWord": "물-쎄다",
-      "standardWord": "많이",
-      "definition": "몹시 목이 말라서 물을 많이 마시다"
-    },
-    {
-      "dialectWord": "바람-받이",
-      "standardWord": "많이",
-      "definition": "바람이 많이 부는 곳&lt;DR /&gt; 제주 지역에서는 ‘받이’로도 적는다."
-    },
-    {
-      "dialectWord": "박삭",
-      "standardWord": "많이",
-      "definition": "풀 등이 사이가 촘촘하게 아주 많이 난 모양"
-    },
-    {
-      "dialectWord": "밥-체시",
-      "standardWord": "많이",
-      "definition": "밥을 많이 먹어 치우는 사람"
-    },
-    {
-      "dialectWord": "밥-푸데",
-      "standardWord": "많이",
-      "definition": "일은 못하고 밥만 많이 먹는 사람을 놀림조로 이르는 말"
-    },
-    {
-      "dialectWord": "빌레-왓",
-      "standardWord": "많이",
-      "definition": "넓적하고 평평한 돌이 많이 묻혀 있는 밭"
-    },
-    {
-      "dialectWord": "야게염-하다",
-      "standardWord": "많이",
-      "definition": "음식 등을 많이 얻어먹으려고 그 자리를 맴돌다&lt;DR /&gt; 제주 지역에서는 ‘야게염다’로도 적는다."
-    },
-    {
-      "dialectWord": "야게옴-다리",
-      "standardWord": "많이",
-      "definition": "음식 등을 많이 얻어먹으려고 그 자리를 맴도는 사람"
-    },
-    {
-      "dialectWord": "가름-돌다",
-      "standardWord": "집",
-      "definition": "집에 있지 않고 동네에 나가 돌아다니다"
-    },
-    {
-      "dialectWord": "가름-톨다",
-      "standardWord": "집",
-      "definition": "집에 있지 않고 동네에 나가 돌아다니다"
-    },
-    {
-      "dialectWord": "가문-떡",
-      "standardWord": "집",
-      "definition": "집안에 초상이 났을 때 친척이 만들어 가는 부조 떡"
-    },
-    {
-      "dialectWord": "거리-돌다",
-      "standardWord": "집",
-      "definition": "집에 있지 않고 동네에 나가 돌아다니다"
-    },
-    {
-      "dialectWord": "고적",
-      "standardWord": "집",
-      "definition": "집안에 초상이 났을 때 친척이 만들어 가는 부조 떡"
-    },
-    {
-      "dialectWord": "내풍치다",
-      "standardWord": "집",
-      "definition": "집안싸움을 할 때, 살림살이를 내팽개치며 흐트러뜨리다"
-    },
-    {
-      "dialectWord": "문-두",
-      "standardWord": "집",
-      "definition": "집채에 딸린 문 바깥 근처"
-    },
-    {
-      "dialectWord": "밧-칠성",
-      "standardWord": "집",
-      "definition": "집 울안에 모시는 칠성신"
-    },
-    {
-      "dialectWord": "정",
-      "standardWord": "집",
-      "definition": "집으로 들어오는 길목에 대문 대신 가로로 걸쳐 놓는, 길고 굵직한 나무"
-    },
-    {
-      "dialectWord": "정-낭",
-      "standardWord": "집",
-      "definition": "집으로 들어오는 길목에 대문 대신 가로로 걸쳐 놓는, 길고 굵직한 나무"
-    },
-    {
-      "dialectWord": "정살",
-      "standardWord": "집",
-      "definition": "집으로 들어오는 길목에 대문 대신 가로로 걸쳐 놓는, 길고 굵직한 나무"
-    },
-    {
-      "dialectWord": "정살-낭",
-      "standardWord": "집",
-      "definition": "집으로 들어오는 길목에 대문 대신 가로로 걸쳐 놓는, 길고 굵직한 나무"
-    },
-    {
-      "dialectWord": "정주막",
-      "standardWord": "집",
-      "definition": "집의 출입구에 대문 대신 긴 나무 막대를 가로로 걸쳐 놓을 수 있도록 구멍을 뚫어 양쪽으로 세운 기둥"
-    },
-    {
-      "dialectWord": "정주먹",
-      "standardWord": "집",
-      "definition": "집의 출입구에 대문 대신 긴 나무 막대를 가로로 걸쳐 놓을 수 있도록 구멍을 뚫어 양쪽으로 세운 기둥"
-    },
-    {
-      "dialectWord": "정주목-낭",
-      "standardWord": "집",
-      "definition": "집의 출입구에 대문 대신 긴 나무 막대를 가로로 걸쳐 놓을 수 있도록 구멍을 뚫어 양쪽으로 세운 기둥"
-    },
-    {
       "dialectWord": "가리싸다",
       "standardWord": "뒤집다",
       "definition": "‘뒤집다’의 방언"
-    },
-    {
-      "dialectWord": "가리-쓰다",
-      "standardWord": "집",
-      "definition": "뒤집어 놓거나 바른 상태로 돌리다"
-    },
-    {
-      "dialectWord": "가리-츠다",
-      "standardWord": "집",
-      "definition": "뒤집어 놓거나 바른 상태로 돌리다"
-    },
-    {
-      "dialectWord": "가릿-당",
-      "standardWord": "집",
-      "definition": "바닷가에 있는 당집"
-    },
-    {
-      "dialectWord": "가막-신",
-      "standardWord": "집",
-      "definition": "시집갈 때 여자들이 신고 가던 가죽신"
     },
     {
       "dialectWord": "학게",
@@ -6579,39 +5339,9 @@
       "definition": "‘학교’의 방언&lt;DR /&gt; 제주 지역에서는 ‘게’로도 적는다."
     },
     {
-      "dialectWord": "게-입성하다",
-      "standardWord": "옷",
-      "definition": "옷을 갈아입다&lt;DR /&gt; 제주 지역에서는 ‘게입성다’로도 적는다."
-    },
-    {
-      "dialectWord": "잣다",
-      "standardWord": "옷",
-      "definition": "옷 같은 것의 해어진 데를 딴 헝겊을 대고 깁다&lt;DR /&gt; 제주 지역에서는 ‘다’로도 적는다."
-    },
-    {
-      "dialectWord": "고에-가죽",
-      "standardWord": "옷",
-      "definition": "물기가 있는 바구니를 지고 다닐 때, 바구니에서 흘러나온 물에 옷이나 몸이 젖지 않도록 바구니의 밑에 받치는 물건. 주로 쇠가죽으로 만든다."
-    },
-    {
-      "dialectWord": "고에기",
-      "standardWord": "옷",
-      "definition": "물기가 있는 바구니를 지고 다닐 때, 바구니에서 흘러나온 물에 옷이나 몸이 젖지 않도록 바구니의 밑에 받치는 물건. 주로 쇠가죽으로 만든다."
-    },
-    {
       "dialectWord": "고홈",
       "standardWord": "옷고름",
       "definition": "‘옷고름’의 방언"
-    },
-    {
-      "dialectWord": "골레기",
-      "standardWord": "옷",
-      "definition": "물기가 있는 바구니를 지고 다닐 때, 바구니에서 흘러나온 물에 옷이나 몸이 젖지 않도록 바구니의 밑에 받치는 물건. 주로 쇠가죽으로 만든다."
-    },
-    {
-      "dialectWord": "골렝이",
-      "standardWord": "옷",
-      "definition": "물기가 있는 바구니를 지고 다닐 때, 바구니에서 흘러나온 물에 옷이나 몸이 젖지 않도록 바구니의 밑에 받치는 물건. 주로 쇠가죽으로 만든다."
     },
     {
       "dialectWord": "골롬",
@@ -6627,11 +5357,6 @@
       "dialectWord": "곰",
       "standardWord": "옷고름",
       "definition": "‘옷고름’의 방언"
-    },
-    {
-      "dialectWord": "궤야기",
-      "standardWord": "옷",
-      "definition": "물기가 있는 바구니를 지고 다닐 때, 바구니에서 흘러나온 물에 옷이나 몸이 젖지 않도록 바구니의 밑에 받치는 물건. 주로 쇠가죽으로 만든다."
     },
     {
       "dialectWord": "꼴레-옷",
@@ -6654,49 +5379,14 @@
       "definition": "‘누비옷’의 방언"
     },
     {
-      "dialectWord": "뚜데-옷",
-      "standardWord": "옷",
-      "definition": "겉감과 안감 사이에 솜이나 보무라지 따위를 넣어 거칠게 누벼 지은 옷"
-    },
-    {
       "dialectWord": "마페-옷",
       "standardWord": "삼베옷",
       "definition": "‘삼베옷’의 방언"
     },
     {
-      "dialectWord": "바짝-하다",
-      "standardWord": "옷",
-      "definition": "노끈 따위를 잡아 묶어 잔뜩 동여지거나 옷이 몸에 꼭 끼인 상태에 있다&lt;DR /&gt; 제주 지역에서는 ‘짝다’로도 적는다."
-    },
-    {
-      "dialectWord": "밥-께",
-      "standardWord": "옷",
-      "definition": "밥으로 만든 풀을 옷감에 먹였을 때 드러나는 밥알의 찌꺼기"
-    },
-    {
       "dialectWord": "봇뎃-창옷",
       "standardWord": "배내옷",
       "definition": "‘배내옷’의 방언"
-    },
-    {
-      "dialectWord": "뒷-무뚱",
-      "standardWord": "신발",
-      "definition": "뒷문과 뒷마당 사이에 신발 따위를 벗어 둘 수 있도록 뒷마당보다 조금 높게 만든 공간"
-    },
-    {
-      "dialectWord": "무뚱",
-      "standardWord": "신발",
-      "definition": "처마 밑에 신발 따위를 벗어 둘 수 있도록 마련된 공간. 보통 마당보다 조금 높게 되어 있다"
-    },
-    {
-      "dialectWord": "짝-그르다",
-      "standardWord": "신발",
-      "definition": "신발, 양말, 장갑 따위가 짝짝이가 되다"
-    },
-    {
-      "dialectWord": "착-그르다",
-      "standardWord": "신발",
-      "definition": "신발, 양말, 장갑 따위가 짝짝이가 되다"
     },
     {
       "dialectWord": "가지-사돈",
@@ -6707,11 +5397,6 @@
       "dialectWord": "가지-사둔",
       "standardWord": "곁사돈",
       "definition": "‘곁사돈’의 방언"
-    },
-    {
-      "dialectWord": "거스름-떡",
-      "standardWord": "돈",
-      "definition": "사돈집에 처음으로 해 가는 떡"
     },
     {
       "dialectWord": "거스림-돈",
@@ -6762,16 +5447,6 @@
       "dialectWord": "맞-전",
       "standardWord": "맞돈",
       "definition": "‘맞돈’의 방언"
-    },
-    {
-      "dialectWord": "무거래",
-      "standardWord": "돈",
-      "definition": "대차한 돈이나 주고받을 물건값 등 거래를 해야 할 돈이 없음"
-    },
-    {
-      "dialectWord": "무거리",
-      "standardWord": "돈",
-      "definition": "대차한 돈이나 주고받을 물건값 등 거래를 해야 할 돈이 없음"
     },
     {
       "dialectWord": "밧-사돈",

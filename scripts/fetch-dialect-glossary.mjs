@@ -30,24 +30,28 @@ async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// "'실제표준어'의 방언" 패턴에서 정확한 표준어를 뽑아낸다. 못 찾으면 검색에 쓴 씨앗 단어로 대체.
-function parseStandardWord(definition, seedWord) {
+// "'실제표준어'의 방언" 패턴에서 정확한 표준어를 뽑아낸다.
+// target=9(뜻풀이)+method=include 검색은 정의문에 씨앗 단어가 "포함"되기만 해도 걸리므로
+// (예: "가다" 검색에 "날이 이지러지거나 떨어져 나가다"가 걸림), 이 패턴에 안 맞으면
+// 실제로는 무관한 매칭일 가능성이 높아 씨앗 단어로 대체하지 않고 버린다.
+function parseStandardWord(definition) {
   const match = definition.match(/^[‘']([^’']+)[’']의 방언/);
-  return match ? match[1] : seedWord;
+  return match ? match[1] : null;
 }
 
 // item(JSON) -> 표준어-방언 글로서리 엔트리 목록. 순수 함수라 --self-test로 검증 가능.
-export function extractEntries(items, seedWord) {
+export function extractEntries(items) {
   const entries = [];
   for (const item of items ?? []) {
     for (const sense of item.sense ?? []) {
-      if (sense.type === '방언') {
-        entries.push({
-          dialectWord: item.word,
-          standardWord: parseStandardWord(sense.definition, seedWord),
-          definition: sense.definition,
-        });
-      }
+      if (sense.type !== '방언') continue;
+      const standardWord = parseStandardWord(sense.definition);
+      if (!standardWord) continue;
+      entries.push({
+        dialectWord: item.word,
+        standardWord,
+        definition: sense.definition,
+      });
     }
   }
   return entries;
@@ -71,7 +75,7 @@ async function fetchDialectEntries(regionCode, standardWord) {
   }
   const json = await res.json();
   const items = json.channel?.item ?? [];
-  return extractEntries(items, standardWord);
+  return extractEntries(items);
 }
 
 async function main() {
@@ -132,15 +136,19 @@ function selfTest() {
     },
     {
       word: '가시-어멍',
-      // 씨앗 단어("어머니")보다 정의문 속 실제 표준어("가시어머니")가 더 정확해야 함
       sense: [{ type: '방언', definition: '‘가시어머니’의 방언' }],
     },
+    {
+      // "가다" 검색에 정의문이 우연히 걸렸을 뿐 실제로는 무관한 항목 -> 버려야 함
+      word: '베물리다',
+      sense: [{ type: '방언', definition: '돌이나 쇠에 부딪혀 날의 일부가 이지러지거나 떨어져 나가다' }],
+    },
   ];
-  const result = extractEntries(sample, '어머니');
-  console.assert(result.length === 2, 'self-test 실패: entries 길이');
+  const result = extractEntries(sample);
+  console.assert(result.length === 2, 'self-test 실패: 무관한 항목이 걸러지지 않음');
   console.assert(result[0].dialectWord === '정지', 'self-test 실패: dialectWord');
   console.assert(result[0].standardWord === '부엌', 'self-test 실패: standardWord(ascii quote)');
-  console.assert(result[1].standardWord === '가시어머니', 'self-test 실패: standardWord(정의문 우선, curly quote)');
+  console.assert(result[1].standardWord === '가시어머니', 'self-test 실패: standardWord(curly quote)');
   console.log('self-test 통과');
 }
 

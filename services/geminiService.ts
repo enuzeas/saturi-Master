@@ -1,5 +1,6 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { DialectRegion, TranslationResponse } from "../types";
+import { DIALECT_EXAMPLES } from "../data/dialectExamples";
 
 const apiKey = process.env.API_KEY;
 
@@ -14,16 +15,24 @@ export const translateToDialect = async (
   targetDialect: DialectRegion
 ): Promise<TranslationResponse> => {
   try {
+    const examples = DIALECT_EXAMPLES[targetDialect]
+      .map((e) => `- ${e.standardWord} → ${e.dialectWord}`)
+      .join("\n");
+
     const prompt = `
       Convert the following Standard Korean (Seoul dialect) text into natural, native-sounding ${targetDialect}.
-      
+
+      Reference vocabulary (real ${targetDialect} words, from the National Institute of Korean Language's open dictionary):
+      ${examples}
+
       Input Text: "${text}"
-      
+
       Requirements:
       1. The translation must strictly follow the grammatical and vocabulary nuances of ${targetDialect}.
-      2. If the input is formal, keep the output relatively formal but in dialect. If informal, keep it informal.
-      3. Identify 1-3 key dialect words or phrases used in the translation.
-      4. Provide a brief one-sentence comment explaining the vibe or specific grammar point used.
+      2. Prefer the reference vocabulary above where it naturally fits the input, but don't force it if it doesn't fit.
+      3. If the input is formal, keep the output relatively formal but in dialect. If informal, keep it informal.
+      4. Identify 1-3 key dialect words or phrases used in the translation.
+      5. Provide a brief one-sentence comment explaining the vibe or specific grammar point used.
     `;
 
     const response = await ai.models.generateContent({
