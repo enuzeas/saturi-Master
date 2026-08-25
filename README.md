@@ -41,6 +41,14 @@ npm run build
 npm run preview
 ```
 
+## Cloudflare Pages 배포
+
+```bash
+npm run deploy
+```
+
+빌드 결과(`dist/`)를 Cloudflare Pages 프로젝트 `saturi-master`에 업로드합니다. Wrangler 로그인이 필요합니다 (`npx wrangler login`).
+
 ## 주의사항
 
 이 앱은 클라이언트에서 직접 Gemini API를 호출하므로, 빌드된 결과물에 API 키가 포함됩니다. 개인 프로젝트/프로토타입 용도로만 사용하고, 공개 배포 시에는 백엔드 프록시를 통해 키를 감추는 것을 권장합니다.
