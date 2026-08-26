@@ -31,4 +31,10 @@ export const DIALECT_OPTIONS: DialectOption[] = [
     description: '육지와는 확연히 다른 독창적인 제주어',
     color: 'bg-orange-500',
   },
+  {
+    id: DialectRegion.GANGWON,
+    label: '강원 사투리',
+    description: '억양이 강한 듯 순박한, 산골 특유의 강원도 말씨',
+    color: 'bg-teal-500',
+  },
 ];

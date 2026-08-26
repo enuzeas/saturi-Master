@@ -3,7 +3,8 @@ export enum DialectRegion {
   GYEONGNAM = 'Gyeongnam (경남)',
   JEOLLA = 'Jeolla (전라)',
   CHUNGCHEONG = 'Chungcheong (충청)',
-  JEJU = 'Jeju (제주)'
+  JEJU = 'Jeju (제주)',
+  GANGWON = 'Gangwon (강원)'
 }
 
 export interface TranslationResponse {

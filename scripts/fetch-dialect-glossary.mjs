@@ -13,6 +13,7 @@ const REGIONS = {
   'Jeolla (전라)': 7,
   'Chungcheong (충청)': 12,
   'Jeju (제주)': 9,
+  'Gangwon (강원)': 1,
 };
 
 // 검색 기준 표준어 씨앗 단어. 정의문에 이 단어가 포함된 지역어 표제어를 찾는다.

@@ -60,4 +60,14 @@ export const DIALECT_EXAMPLES: Record<DialectRegion, DialectExample[]> = {
     { standardWord: '먹다', dialectWord: '막다' },
     { standardWord: '웃다', dialectWord: '우시다' },
   ],
+  [DialectRegion.GANGWON]: [
+    { standardWord: '어머니', dialectWord: '어마이' },
+    { standardWord: '아버지', dialectWord: '아버니' },
+    { standardWord: '할머니', dialectWord: '할마시' },
+    { standardWord: '김치', dialectWord: '짐치' },
+    { standardWord: '국수', dialectWord: '국시' },
+    { standardWord: '부엌', dialectWord: '벜' },
+    { standardWord: '춥다', dialectWord: '칩다' },
+    { standardWord: '덥다', dialectWord: '듭다' },
+  ],
 };

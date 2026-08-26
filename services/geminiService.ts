@@ -32,7 +32,7 @@ export const translateToDialect = async (
       2. Prefer the reference vocabulary above where it naturally fits the input, but don't force it if it doesn't fit.
       3. If the input is formal, keep the output relatively formal but in dialect. If informal, keep it informal.
       4. Identify 1-3 key dialect words or phrases used in the translation.
-      5. Provide a brief one-sentence comment explaining the vibe or specific grammar point used.
+      5. Provide a brief one-sentence comment explaining the vibe or specific grammar point used, written in Korean (한국어로 작성).
     `;
 
     const response = await ai.models.generateContent({

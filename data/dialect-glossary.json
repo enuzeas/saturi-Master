@@ -3980,6 +3980,26 @@
       "definition": "‘뒤집어쓰다’의 방언"
     },
     {
+      "dialectWord": "중-학괴",
+      "standardWord": "중학교",
+      "definition": "‘중학교’의 방언"
+    },
+    {
+      "dialectWord": "학괴",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "핵고",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "핵교",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
       "dialectWord": "속-옷고름",
       "standardWord": "안옷고름",
       "definition": "‘안옷고름’의 방언"
@@ -5472,6 +5492,1653 @@
       "dialectWord": "벨릿-돈",
       "standardWord": "변릿돈",
       "definition": "‘변릿돈’의 방언"
+    }
+  ],
+  "Gangwon (강원)": [
+    {
+      "dialectWord": "가시-어마이",
+      "standardWord": "가시어머니",
+      "definition": "‘가시어머니’의 방언"
+    },
+    {
+      "dialectWord": "가시-어머이",
+      "standardWord": "가시어머니",
+      "definition": "‘가시어머니’의 방언"
+    },
+    {
+      "dialectWord": "가시-어멈",
+      "standardWord": "가시어머니",
+      "definition": "‘가시어머니’의 방언"
+    },
+    {
+      "dialectWord": "가시-어멍이",
+      "standardWord": "가시어머니",
+      "definition": "‘가시어머니’의 방언"
+    },
+    {
+      "dialectWord": "새-어머이",
+      "standardWord": "새어머니",
+      "definition": "‘새어머니’의 방언"
+    },
+    {
+      "dialectWord": "수영-어머이",
+      "standardWord": "수양어머니",
+      "definition": "‘수양어머니’의 방언"
+    },
+    {
+      "dialectWord": "시-어머이",
+      "standardWord": "시어머니",
+      "definition": "‘시어머니’의 방언"
+    },
+    {
+      "dialectWord": "써-어마이",
+      "standardWord": "시어머니",
+      "definition": "‘시어머니’의 방언"
+    },
+    {
+      "dialectWord": "씨-어마이",
+      "standardWord": "시어머니",
+      "definition": "‘시어머니’의 방언"
+    },
+    {
+      "dialectWord": "씨-어머이",
+      "standardWord": "시어머니",
+      "definition": "‘시어머니’의 방언"
+    },
+    {
+      "dialectWord": "어마이",
+      "standardWord": "어머니",
+      "definition": "‘어머니’의 방언"
+    },
+    {
+      "dialectWord": "어머야",
+      "standardWord": "어머니",
+      "definition": "‘어머니’의 방언"
+    },
+    {
+      "dialectWord": "어머양",
+      "standardWord": "어머니",
+      "definition": "‘어머니’의 방언"
+    },
+    {
+      "dialectWord": "어머이",
+      "standardWord": "어머니",
+      "definition": "‘어머니’의 방언"
+    },
+    {
+      "dialectWord": "어멍이",
+      "standardWord": "어머니",
+      "definition": "‘어머니’의 방언"
+    },
+    {
+      "dialectWord": "으붓-어머이",
+      "standardWord": "의붓어머니",
+      "definition": "‘의붓어머니’의 방언"
+    },
+    {
+      "dialectWord": "작-어머이",
+      "standardWord": "작은어머니",
+      "definition": "‘작은어머니’의 방언"
+    },
+    {
+      "dialectWord": "작-으마이",
+      "standardWord": "작은어머니",
+      "definition": "‘작은어머니’의 방언"
+    },
+    {
+      "dialectWord": "작-으멍이",
+      "standardWord": "작은어머니",
+      "definition": "‘작은어머니’의 방언"
+    },
+    {
+      "dialectWord": "작은-어마이",
+      "standardWord": "작은어머니",
+      "definition": "‘작은어머니’의 방언"
+    },
+    {
+      "dialectWord": "가시-아바이",
+      "standardWord": "가시아버지",
+      "definition": "‘가시아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-하르바이",
+      "standardWord": "증조할아버지",
+      "definition": "‘증조할아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-할아버이",
+      "standardWord": "증조할아버지",
+      "definition": "‘증조할아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-할어버이",
+      "standardWord": "증조할아버지",
+      "definition": "‘증조할아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-할으버이",
+      "standardWord": "증조할아버지",
+      "definition": "‘증조할아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-할으버지",
+      "standardWord": "증조할아버지",
+      "definition": "‘증조할아버지’의 방언"
+    },
+    {
+      "dialectWord": "다신-아부지",
+      "standardWord": "의붓아버지",
+      "definition": "‘의붓아버지’의 방언"
+    },
+    {
+      "dialectWord": "두째-큰아버지",
+      "standardWord": "둘째아버지",
+      "definition": "‘둘째아버지’의 방언"
+    },
+    {
+      "dialectWord": "둘째-큰아버지",
+      "standardWord": "둘째아버지",
+      "definition": "‘둘째아버지’의 방언"
+    },
+    {
+      "dialectWord": "둘채-큰아버지",
+      "standardWord": "둘째아버지",
+      "definition": "‘둘째아버지’의 방언"
+    },
+    {
+      "dialectWord": "수영-아버이",
+      "standardWord": "수양아버지",
+      "definition": "‘수양아버지’의 방언"
+    },
+    {
+      "dialectWord": "수영-아부지",
+      "standardWord": "수양아버지",
+      "definition": "‘수양아버지’의 방언"
+    },
+    {
+      "dialectWord": "시-아버이",
+      "standardWord": "시아버지",
+      "definition": "‘시아버지’의 방언"
+    },
+    {
+      "dialectWord": "시-아부지",
+      "standardWord": "시아버지",
+      "definition": "‘시아버지’의 방언"
+    },
+    {
+      "dialectWord": "시-하르바이",
+      "standardWord": "시할아버지",
+      "definition": "‘시할아버지’의 방언"
+    },
+    {
+      "dialectWord": "씨-아바이",
+      "standardWord": "시아버지",
+      "definition": "‘시아버지’의 방언"
+    },
+    {
+      "dialectWord": "아버니",
+      "standardWord": "아버지",
+      "definition": "‘아버지’의 방언"
+    },
+    {
+      "dialectWord": "아버이",
+      "standardWord": "아버지",
+      "definition": "‘아버지’의 방언"
+    },
+    {
+      "dialectWord": "아부제",
+      "standardWord": "아버지",
+      "definition": "‘아버지’의 방언"
+    },
+    {
+      "dialectWord": "아부지",
+      "standardWord": "아버지",
+      "definition": "‘아버지’의 방언"
+    },
+    {
+      "dialectWord": "외-할아바이",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "외-할아버이",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "외-할어버이",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "외-할으버이",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "외-할으버지",
+      "standardWord": "외할아버지",
+      "definition": "‘외할아버지’의 방언"
+    },
+    {
+      "dialectWord": "친-할아버이",
+      "standardWord": "친할아버지",
+      "definition": "‘친할아버지’의 방언"
+    },
+    {
+      "dialectWord": "친-할어버이",
+      "standardWord": "친할아버지",
+      "definition": "‘친할아버지’의 방언"
+    },
+    {
+      "dialectWord": "친-할으버이",
+      "standardWord": "친할아버지",
+      "definition": "‘친할아버지’의 방언"
+    },
+    {
+      "dialectWord": "친-할으버지",
+      "standardWord": "친할아버지",
+      "definition": "‘친할아버지’의 방언"
+    },
+    {
+      "dialectWord": "큰-하르바이",
+      "standardWord": "큰할아버지",
+      "definition": "‘큰할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르바이",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르버이",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르벙이",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "하르비",
+      "standardWord": "할아버지",
+      "definition": "‘할아버지’의 방언"
+    },
+    {
+      "dialectWord": "노-할머이",
+      "standardWord": "증조할머니",
+      "definition": "‘증조할머니’의 방언"
+    },
+    {
+      "dialectWord": "삼신-할마이",
+      "standardWord": "삼신할머니",
+      "definition": "‘삼신할머니’의 방언"
+    },
+    {
+      "dialectWord": "시-할마이",
+      "standardWord": "시할머니",
+      "definition": "‘시할머니’의 방언"
+    },
+    {
+      "dialectWord": "영둥-할마이",
+      "standardWord": "영등할머니",
+      "definition": "‘영등할머니’의 방언"
+    },
+    {
+      "dialectWord": "외-할매",
+      "standardWord": "외할머니",
+      "definition": "‘외할머니’의 방언"
+    },
+    {
+      "dialectWord": "외-할무이",
+      "standardWord": "외할머니",
+      "definition": "‘외할머니’의 방언"
+    },
+    {
+      "dialectWord": "친-할머이",
+      "standardWord": "친할머니",
+      "definition": "‘친할머니’의 방언"
+    },
+    {
+      "dialectWord": "큰-할마이",
+      "standardWord": "큰할머니",
+      "definition": "‘큰할머니’의 방언"
+    },
+    {
+      "dialectWord": "풍신-할마이",
+      "standardWord": "영등할머니",
+      "definition": "‘영등할머니’의 방언"
+    },
+    {
+      "dialectWord": "할마시",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "할매",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "할머이",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "할멍이",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "할무니",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "할므니",
+      "standardWord": "할머니",
+      "definition": "‘할머니’의 방언"
+    },
+    {
+      "dialectWord": "가스나이",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "게집-아이",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "기즙-아이",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "기지바",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "깟난-아이",
+      "standardWord": "갓난아이",
+      "definition": "‘갓난아이’의 방언"
+    },
+    {
+      "dialectWord": "딸-아",
+      "standardWord": "계집아이",
+      "definition": "‘계집아이’의 방언"
+    },
+    {
+      "dialectWord": "머수마",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머수매",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머스마",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머스마그",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머스매",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머시마",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "머시매",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "모수마",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "사나애",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "사나중이",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "사나쥐",
+      "standardWord": "사내아이",
+      "definition": "‘사내아이’의 방언"
+    },
+    {
+      "dialectWord": "가왯-밥",
+      "standardWord": "가윗밥",
+      "definition": "‘가윗밥’의 방언"
+    },
+    {
+      "dialectWord": "감재-밥",
+      "standardWord": "감자밥",
+      "definition": "‘감자밥’의 방언"
+    },
+    {
+      "dialectWord": "강내이-밥",
+      "standardWord": "강냉이밥",
+      "definition": "‘강냉이밥’의 방언"
+    },
+    {
+      "dialectWord": "강-밥",
+      "standardWord": "눌은밥",
+      "definition": "‘눌은밥’의 방언"
+    },
+    {
+      "dialectWord": "강-밥",
+      "standardWord": "튀밥",
+      "definition": "‘튀밥’의 방언"
+    },
+    {
+      "dialectWord": "게란-덮밥",
+      "standardWord": "계란덮밥",
+      "definition": "‘계란덮밥’의 방언"
+    },
+    {
+      "dialectWord": "고냉이-풀",
+      "standardWord": "괭이밥",
+      "definition": "‘괭이밥’의 방언"
+    },
+    {
+      "dialectWord": "까샛-밥",
+      "standardWord": "가윗밥",
+      "definition": "‘가윗밥’의 방언"
+    },
+    {
+      "dialectWord": "깡-밥",
+      "standardWord": "튀밥",
+      "definition": "‘튀밥’의 방언"
+    },
+    {
+      "dialectWord": "깡-조이밥",
+      "standardWord": "강조밥",
+      "definition": "‘강조밥’의 방언"
+    },
+    {
+      "dialectWord": "꼬두-밥",
+      "standardWord": "고두밥",
+      "definition": "‘고두밥’의 방언"
+    },
+    {
+      "dialectWord": "꼬들-밥",
+      "standardWord": "고두밥",
+      "definition": "‘고두밥’의 방언"
+    },
+    {
+      "dialectWord": "꼬실-밥",
+      "standardWord": "고두밥",
+      "definition": "‘고두밥’의 방언"
+    },
+    {
+      "dialectWord": "가락-국시",
+      "standardWord": "가락국수",
+      "definition": "‘가락국수’의 방언"
+    },
+    {
+      "dialectWord": "가쉬기",
+      "standardWord": "칼국수",
+      "definition": "‘칼국수’의 방언"
+    },
+    {
+      "dialectWord": "건춧-국",
+      "standardWord": "시래깃국",
+      "definition": "‘시래깃국’의 방언"
+    },
+    {
+      "dialectWord": "국-국물",
+      "standardWord": "국물",
+      "definition": "‘국물’의 방언"
+    },
+    {
+      "dialectWord": "국시",
+      "standardWord": "국수",
+      "definition": "‘국수’의 방언"
+    },
+    {
+      "dialectWord": "국시-틀",
+      "standardWord": "국수틀",
+      "definition": "‘국수틀’의 방언"
+    },
+    {
+      "dialectWord": "국싯-집",
+      "standardWord": "국숫집",
+      "definition": "‘국숫집’의 방언"
+    },
+    {
+      "dialectWord": "국-죽",
+      "standardWord": "장국죽",
+      "definition": "‘장국죽’의 방언"
+    },
+    {
+      "dialectWord": "김칫-국물",
+      "standardWord": "김칫국",
+      "definition": "‘김칫국’의 방언"
+    },
+    {
+      "dialectWord": "꼴두-국시",
+      "standardWord": "손칼국수",
+      "definition": "‘손칼국수’의 방언"
+    },
+    {
+      "dialectWord": "꾹-물",
+      "standardWord": "국물",
+      "definition": "‘국물’의 방언"
+    },
+    {
+      "dialectWord": "나새잇-국",
+      "standardWord": "냉잇국",
+      "definition": "‘냉잇국’의 방언"
+    },
+    {
+      "dialectWord": "나시이-국",
+      "standardWord": "냉잇국",
+      "definition": "‘냉잇국’의 방언"
+    },
+    {
+      "dialectWord": "누른-국수",
+      "standardWord": "틀국수",
+      "definition": "‘틀국수’의 방언"
+    },
+    {
+      "dialectWord": "누린-국시",
+      "standardWord": "틀국수",
+      "definition": "‘틀국수’의 방언"
+    },
+    {
+      "dialectWord": "들-국화",
+      "standardWord": "감국",
+      "definition": "‘감국’의 방언"
+    },
+    {
+      "dialectWord": "똥그런-국시",
+      "standardWord": "틀국수",
+      "definition": "‘틀국수’의 방언"
+    },
+    {
+      "dialectWord": "막-국시",
+      "standardWord": "막국수",
+      "definition": "‘막국수’의 방언"
+    },
+    {
+      "dialectWord": "맨둣-국",
+      "standardWord": "만둣국",
+      "definition": "‘만둣국’의 방언"
+    },
+    {
+      "dialectWord": "간",
+      "standardWord": "반찬",
+      "definition": "‘반찬’의 방언"
+    },
+    {
+      "dialectWord": "마른-간",
+      "standardWord": "마른반찬",
+      "definition": "‘마른반찬’의 방언"
+    },
+    {
+      "dialectWord": "고지-짐치",
+      "standardWord": "박김치",
+      "definition": "‘박김치’의 방언"
+    },
+    {
+      "dialectWord": "꼬들빼기-짐치",
+      "standardWord": "고들빼기김치",
+      "definition": "‘고들빼기김치’의 방언"
+    },
+    {
+      "dialectWord": "나막-짐치",
+      "standardWord": "나박김치",
+      "definition": "‘나박김치’의 방언"
+    },
+    {
+      "dialectWord": "나바구",
+      "standardWord": "나박김치",
+      "definition": "‘나박김치’의 방언"
+    },
+    {
+      "dialectWord": "나바기",
+      "standardWord": "나박김치",
+      "definition": "‘나박김치’의 방언"
+    },
+    {
+      "dialectWord": "물외-짐치",
+      "standardWord": "오이김치",
+      "definition": "‘오이김치’의 방언"
+    },
+    {
+      "dialectWord": "물외-퉁짠지",
+      "standardWord": "오이소박이김치",
+      "definition": "‘오이소박이김치’의 방언"
+    },
+    {
+      "dialectWord": "배추-짐치",
+      "standardWord": "배추김치",
+      "definition": "‘배추김치’의 방언"
+    },
+    {
+      "dialectWord": "백-짐치",
+      "standardWord": "백김치",
+      "definition": "‘백김치’의 방언"
+    },
+    {
+      "dialectWord": "옐무-짐치",
+      "standardWord": "열무김치",
+      "definition": "‘열무김치’의 방언"
+    },
+    {
+      "dialectWord": "오이-속백이",
+      "standardWord": "오이소박이김치",
+      "definition": "‘오이소박이김치’의 방언"
+    },
+    {
+      "dialectWord": "오이-통짐치",
+      "standardWord": "오이소박이김치",
+      "definition": "‘오이소박이김치’의 방언"
+    },
+    {
+      "dialectWord": "짐치",
+      "standardWord": "김치",
+      "definition": "‘김치’의 방언"
+    },
+    {
+      "dialectWord": "짠갱이",
+      "standardWord": "배추김치",
+      "definition": "‘배추김치’의 방언"
+    },
+    {
+      "dialectWord": "짠징이",
+      "standardWord": "배추김치",
+      "definition": "‘배추김치’의 방언"
+    },
+    {
+      "dialectWord": "통-짐치",
+      "standardWord": "통김치",
+      "definition": "‘통김치’의 방언"
+    },
+    {
+      "dialectWord": "흰-짐치",
+      "standardWord": "백김치",
+      "definition": "‘백김치’의 방언"
+    },
+    {
+      "dialectWord": "고",
+      "standardWord": "고기",
+      "definition": "‘고기’의 방언"
+    },
+    {
+      "dialectWord": "고기-바리",
+      "standardWord": "고기잡이",
+      "definition": "‘고기잡이’의 방언"
+    },
+    {
+      "dialectWord": "고기-잽이",
+      "standardWord": "고기잡이",
+      "definition": "‘고기잡이’의 방언"
+    },
+    {
+      "dialectWord": "괴기",
+      "standardWord": "고기",
+      "definition": "‘고기’의 방언"
+    },
+    {
+      "dialectWord": "괴기-잽이",
+      "standardWord": "고기잡이",
+      "definition": "‘고기잡이’의 방언"
+    },
+    {
+      "dialectWord": "까시뎅이-고기",
+      "standardWord": "가시고기",
+      "definition": "‘가시고기’의 방언"
+    },
+    {
+      "dialectWord": "꽁-고기",
+      "standardWord": "꿩고기",
+      "definition": "‘꿩고기’의 방언"
+    },
+    {
+      "dialectWord": "다르-고기",
+      "standardWord": "닭고기",
+      "definition": "‘닭고기’의 방언"
+    },
+    {
+      "dialectWord": "대지-고기",
+      "standardWord": "돼지고기",
+      "definition": "‘돼지고기’의 방언"
+    },
+    {
+      "dialectWord": "돌-나리",
+      "standardWord": "돌고기",
+      "definition": "‘돌고기’의 방언"
+    },
+    {
+      "dialectWord": "뚜꾸방",
+      "standardWord": "돌고기",
+      "definition": "‘돌고기’의 방언"
+    },
+    {
+      "dialectWord": "민물-괴기",
+      "standardWord": "민물고기",
+      "definition": "‘민물고기’의 방언"
+    },
+    {
+      "dialectWord": "메물-국시",
+      "standardWord": "메밀국수",
+      "definition": "‘메밀국수’의 방언"
+    },
+    {
+      "dialectWord": "밀-국시",
+      "standardWord": "밀국수",
+      "definition": "‘밀국수’의 방언"
+    },
+    {
+      "dialectWord": "밀-칼국",
+      "standardWord": "칼국수",
+      "definition": "‘칼국수’의 방언"
+    },
+    {
+      "dialectWord": "분틀-국시",
+      "standardWord": "기계국수",
+      "definition": "‘기계국수’의 방언"
+    },
+    {
+      "dialectWord": "손-칼국시",
+      "standardWord": "손칼국수",
+      "definition": "‘손칼국수’의 방언"
+    },
+    {
+      "dialectWord": "칼-국시",
+      "standardWord": "칼국수",
+      "definition": "‘칼국수’의 방언"
+    },
+    {
+      "dialectWord": "콩-국시",
+      "standardWord": "콩국수",
+      "definition": "‘콩국수’의 방언"
+    },
+    {
+      "dialectWord": "트르-배기",
+      "standardWord": "기계국수",
+      "definition": "‘기계국수’의 방언"
+    },
+    {
+      "dialectWord": "틀-국시",
+      "standardWord": "틀국수",
+      "definition": "‘틀국수’의 방언"
+    },
+    {
+      "dialectWord": "허면-국수",
+      "standardWord": "틀국수",
+      "definition": "‘틀국수’의 방언"
+    },
+    {
+      "dialectWord": "가락-떡",
+      "standardWord": "가래떡",
+      "definition": "‘가래떡’의 방언"
+    },
+    {
+      "dialectWord": "감재-떡",
+      "standardWord": "감자떡",
+      "definition": "‘감자떡’의 방언"
+    },
+    {
+      "dialectWord": "끈떡-엄따",
+      "standardWord": "끄떡없다",
+      "definition": "‘끄떡없다’의 방언"
+    },
+    {
+      "dialectWord": "끈떡-웂다",
+      "standardWord": "끄떡없다",
+      "definition": "‘끄떡없다’의 방언"
+    },
+    {
+      "dialectWord": "끈떡-음따",
+      "standardWord": "끄떡없다",
+      "definition": "‘끄떡없다’의 방언"
+    },
+    {
+      "dialectWord": "끈떡-읎다",
+      "standardWord": "끄떡없다",
+      "definition": "‘끄떡없다’의 방언"
+    },
+    {
+      "dialectWord": "느끈-거리다",
+      "standardWord": "껄떡거리다",
+      "definition": "‘껄떡거리다’의 방언"
+    },
+    {
+      "dialectWord": "단우-떡",
+      "standardWord": "단오떡",
+      "definition": "‘단오떡’의 방언"
+    },
+    {
+      "dialectWord": "때끼-떡",
+      "standardWord": "수수떡",
+      "definition": "‘수수떡’의 방언"
+    },
+    {
+      "dialectWord": "떡-갈그",
+      "standardWord": "떡가루",
+      "definition": "‘떡가루’의 방언"
+    },
+    {
+      "dialectWord": "떡-갈기",
+      "standardWord": "떡가루",
+      "definition": "‘떡가루’의 방언"
+    },
+    {
+      "dialectWord": "떡갈-낭구",
+      "standardWord": "떡갈나무",
+      "definition": "‘떡갈나무’의 방언"
+    },
+    {
+      "dialectWord": "떡-두께비",
+      "standardWord": "떡두꺼비",
+      "definition": "‘떡두꺼비’의 방언"
+    },
+    {
+      "dialectWord": "떡-미",
+      "standardWord": "떡메",
+      "definition": "‘떡메’의 방언"
+    },
+    {
+      "dialectWord": "떡-시르",
+      "standardWord": "떡시루",
+      "definition": "‘떡시루’의 방언"
+    },
+    {
+      "dialectWord": "떡-실기",
+      "standardWord": "떡시루",
+      "definition": "‘떡시루’의 방언"
+    },
+    {
+      "dialectWord": "떡-장새",
+      "standardWord": "떡장사",
+      "definition": "‘떡장사’의 방언"
+    },
+    {
+      "dialectWord": "뜩-하니",
+      "standardWord": "떡하니",
+      "definition": "‘떡하니’의 방언"
+    },
+    {
+      "dialectWord": "벅-데기",
+      "standardWord": "부엌데기",
+      "definition": "‘부엌데기’의 방언"
+    },
+    {
+      "dialectWord": "벅-식칼",
+      "standardWord": "부엌칼",
+      "definition": "‘부엌칼’의 방언"
+    },
+    {
+      "dialectWord": "벜",
+      "standardWord": "부엌",
+      "definition": "‘부엌’의 방언"
+    },
+    {
+      "dialectWord": "벜-식칼",
+      "standardWord": "부엌칼",
+      "definition": "‘부엌칼’의 방언"
+    },
+    {
+      "dialectWord": "부얶",
+      "standardWord": "부엌",
+      "definition": "‘부엌’의 방언"
+    },
+    {
+      "dialectWord": "붴-칼",
+      "standardWord": "부엌칼",
+      "definition": "‘부엌칼’의 방언"
+    },
+    {
+      "dialectWord": "비억",
+      "standardWord": "부엌",
+      "definition": "‘부엌’의 방언"
+    },
+    {
+      "dialectWord": "정지",
+      "standardWord": "부엌",
+      "definition": "‘부엌’의 방언"
+    },
+    {
+      "dialectWord": "정지-갓난이",
+      "standardWord": "부엌데기",
+      "definition": "‘부엌데기’의 방언"
+    },
+    {
+      "dialectWord": "칩다",
+      "standardWord": "춥다",
+      "definition": "‘춥다’의 방언"
+    },
+    {
+      "dialectWord": "듭다",
+      "standardWord": "덥다",
+      "definition": "‘덥다’의 방언"
+    },
+    {
+      "dialectWord": "진덥다",
+      "standardWord": "찐덥다",
+      "definition": "‘찐덥다’의 방언"
+    },
+    {
+      "dialectWord": "가더-가더",
+      "standardWord": "가다가다",
+      "definition": "‘가다가다’의 방언"
+    },
+    {
+      "dialectWord": "가꿈-가더",
+      "standardWord": "가끔가다",
+      "definition": "‘가끔가다’의 방언"
+    },
+    {
+      "dialectWord": "가꿈-가더가",
+      "standardWord": "가끔가다가",
+      "definition": "‘가끔가다가’의 방언"
+    },
+    {
+      "dialectWord": "가꿈-가더거",
+      "standardWord": "가끔가다가",
+      "definition": "‘가끔가다가’의 방언"
+    },
+    {
+      "dialectWord": "가꿈-가드거",
+      "standardWord": "가끔가다가",
+      "definition": "‘가끔가다가’의 방언"
+    },
+    {
+      "dialectWord": "가더가",
+      "standardWord": "가다가",
+      "definition": "‘가다가’의 방언"
+    },
+    {
+      "dialectWord": "가더거",
+      "standardWord": "가다가",
+      "definition": "‘가다가’의 방언"
+    },
+    {
+      "dialectWord": "가드거",
+      "standardWord": "가다가",
+      "definition": "‘가다가’의 방언"
+    },
+    {
+      "dialectWord": "가주-가다",
+      "standardWord": "가져가다",
+      "definition": "‘가져가다’의 방언"
+    },
+    {
+      "dialectWord": "개다",
+      "standardWord": "가다",
+      "definition": "‘가다’의 방언"
+    },
+    {
+      "dialectWord": "건네-가다",
+      "standardWord": "건너가다",
+      "definition": "‘건너가다’의 방언"
+    },
+    {
+      "dialectWord": "게-가다",
+      "standardWord": "기어가다",
+      "definition": "‘기어가다’의 방언"
+    },
+    {
+      "dialectWord": "나레-가다",
+      "standardWord": "내려가다",
+      "definition": "‘내려가다’의 방언"
+    },
+    {
+      "dialectWord": "늠어-가다",
+      "standardWord": "넘어가다",
+      "definition": "‘넘어가다’의 방언"
+    },
+    {
+      "dialectWord": "달게-가다",
+      "standardWord": "달려가다",
+      "definition": "‘달려가다’의 방언"
+    },
+    {
+      "dialectWord": "달레-가다",
+      "standardWord": "달려가다",
+      "definition": "‘달려가다’의 방언"
+    },
+    {
+      "dialectWord": "댕겨-가다",
+      "standardWord": "다녀가다",
+      "definition": "‘다녀가다’의 방언"
+    },
+    {
+      "dialectWord": "돌어-가다",
+      "standardWord": "돌아가다",
+      "definition": "‘돌아가다’의 방언"
+    },
+    {
+      "dialectWord": "되-돌어가다",
+      "standardWord": "되돌아가다",
+      "definition": "‘되돌아가다’의 방언"
+    },
+    {
+      "dialectWord": "뒤-따러가다",
+      "standardWord": "뒤따라가다",
+      "definition": "‘뒤따라가다’의 방언"
+    },
+    {
+      "dialectWord": "가주-오다",
+      "standardWord": "가져오다",
+      "definition": "‘가져오다’의 방언"
+    },
+    {
+      "dialectWord": "가지고-오다",
+      "standardWord": "가져오다",
+      "definition": "‘가져오다’의 방언"
+    },
+    {
+      "dialectWord": "근네-오다",
+      "standardWord": "건너오다",
+      "definition": "‘건너오다’의 방언"
+    },
+    {
+      "dialectWord": "끌레-오다",
+      "standardWord": "끌려오다",
+      "definition": "‘끌려오다’의 방언"
+    },
+    {
+      "dialectWord": "내레-오다",
+      "standardWord": "내려오다",
+      "definition": "‘내려오다’의 방언"
+    },
+    {
+      "dialectWord": "늠어-오다",
+      "standardWord": "넘어오다",
+      "definition": "‘넘어오다’의 방언"
+    },
+    {
+      "dialectWord": "달레-오다",
+      "standardWord": "달려오다",
+      "definition": "‘달려오다’의 방언"
+    },
+    {
+      "dialectWord": "댕겨-오다",
+      "standardWord": "다녀오다",
+      "definition": "‘다녀오다’의 방언"
+    },
+    {
+      "dialectWord": "데레-오다",
+      "standardWord": "데려오다",
+      "definition": "‘데려오다’의 방언"
+    },
+    {
+      "dialectWord": "뎅게-오다",
+      "standardWord": "다녀오다",
+      "definition": "‘다녀오다’의 방언"
+    },
+    {
+      "dialectWord": "돌어-오다",
+      "standardWord": "돌아오다",
+      "definition": "‘돌아오다’의 방언"
+    },
+    {
+      "dialectWord": "되-돌어오다",
+      "standardWord": "되돌아오다",
+      "definition": "‘되돌아오다’의 방언"
+    },
+    {
+      "dialectWord": "뒤-따러오다",
+      "standardWord": "뒤따라오다",
+      "definition": "‘뒤따라오다’의 방언"
+    },
+    {
+      "dialectWord": "들에-오다",
+      "standardWord": "들여오다",
+      "definition": "‘들여오다’의 방언"
+    },
+    {
+      "dialectWord": "딜에-오다",
+      "standardWord": "들여오다",
+      "definition": "‘들여오다’의 방언"
+    },
+    {
+      "dialectWord": "뙤-나오다",
+      "standardWord": "뛰어나오다",
+      "definition": "‘뛰어나오다’의 방언"
+    },
+    {
+      "dialectWord": "몰레-오다",
+      "standardWord": "몰려오다",
+      "definition": "‘몰려오다’의 방언"
+    },
+    {
+      "dialectWord": "몰어-오다",
+      "standardWord": "몰아오다",
+      "definition": "‘몰아오다’의 방언"
+    },
+    {
+      "dialectWord": "밀레-오다",
+      "standardWord": "밀려오다",
+      "definition": "‘밀려오다’의 방언"
+    },
+    {
+      "dialectWord": "쫓예-오다",
+      "standardWord": "쫓아오다",
+      "definition": "‘쫓아오다’의 방언"
+    },
+    {
+      "dialectWord": "가머-먹다",
+      "standardWord": "거머먹다",
+      "definition": "‘거머먹다’의 방언"
+    },
+    {
+      "dialectWord": "갈어-먹다",
+      "standardWord": "갈아먹다",
+      "definition": "‘갈아먹다’의 방언"
+    },
+    {
+      "dialectWord": "갉어-먹다",
+      "standardWord": "갉아먹다",
+      "definition": "‘갉아먹다’의 방언"
+    },
+    {
+      "dialectWord": "그저-먹다",
+      "standardWord": "거저먹다",
+      "definition": "‘거저먹다’의 방언"
+    },
+    {
+      "dialectWord": "놀구-먹다",
+      "standardWord": "놀고먹다",
+      "definition": "‘놀고먹다’의 방언"
+    },
+    {
+      "dialectWord": "띠-먹다",
+      "standardWord": "떼어먹다",
+      "definition": "‘떼어먹다’의 방언"
+    },
+    {
+      "dialectWord": "말어-먹다",
+      "standardWord": "말아먹다",
+      "definition": "‘말아먹다’의 방언"
+    },
+    {
+      "dialectWord": "묵다",
+      "standardWord": "먹다",
+      "definition": "‘먹다’의 방언"
+    },
+    {
+      "dialectWord": "발레-먹다",
+      "standardWord": "발라먹다",
+      "definition": "‘발라먹다’의 방언"
+    },
+    {
+      "dialectWord": "배러-먹다",
+      "standardWord": "빌어먹다",
+      "definition": "‘빌어먹다’의 방언"
+    },
+    {
+      "dialectWord": "베레기-먹다",
+      "standardWord": "비루먹다",
+      "definition": "‘비루먹다’의 방언"
+    },
+    {
+      "dialectWord": "불어-먹다",
+      "standardWord": "벌어먹다",
+      "definition": "‘벌어먹다’의 방언"
+    },
+    {
+      "dialectWord": "알어-먹다",
+      "standardWord": "알아먹다",
+      "definition": "‘알아먹다’의 방언"
+    },
+    {
+      "dialectWord": "우레-먹다",
+      "standardWord": "우려먹다",
+      "definition": "‘우려먹다’의 방언"
+    },
+    {
+      "dialectWord": "울고-먹다",
+      "standardWord": "알겨먹다",
+      "definition": "‘알겨먹다’의 방언"
+    },
+    {
+      "dialectWord": "울궈-먹다",
+      "standardWord": "알겨먹다",
+      "definition": "‘알겨먹다’의 방언"
+    },
+    {
+      "dialectWord": "읃어-먹다",
+      "standardWord": "얻어먹다",
+      "definition": "‘얻어먹다’의 방언"
+    },
+    {
+      "dialectWord": "잡어-먹다",
+      "standardWord": "잡아먹다",
+      "definition": "‘잡아먹다’의 방언"
+    },
+    {
+      "dialectWord": "틀어-먹다",
+      "standardWord": "털어먹다",
+      "definition": "‘털어먹다’의 방언"
+    },
+    {
+      "dialectWord": "헕어-먹다",
+      "standardWord": "핥아먹다",
+      "definition": "‘핥아먹다’의 방언"
+    },
+    {
+      "dialectWord": "구둘뻬-지다",
+      "standardWord": "잠자다",
+      "definition": "‘잠자다’의 방언"
+    },
+    {
+      "dialectWord": "가실기일-하다",
+      "standardWord": "가을일하다",
+      "definition": "‘가을일하다’의 방언"
+    },
+    {
+      "dialectWord": "가실일-하다",
+      "standardWord": "가을일하다",
+      "definition": "‘가을일하다’의 방언"
+    },
+    {
+      "dialectWord": "지울다",
+      "standardWord": "기울다",
+      "definition": "‘기울다’의 방언"
+    },
+    {
+      "dialectWord": "짜다",
+      "standardWord": "울다",
+      "definition": "‘울다’의 방언"
+    },
+    {
+      "dialectWord": "짜울다",
+      "standardWord": "기울다",
+      "definition": "‘기울다’의 방언"
+    },
+    {
+      "dialectWord": "찌울다",
+      "standardWord": "기울다",
+      "definition": "‘기울다’의 방언"
+    },
+    {
+      "dialectWord": "증말",
+      "standardWord": "정말",
+      "definition": "‘정말’의 방언"
+    },
+    {
+      "dialectWord": "증말-루",
+      "standardWord": "정말로",
+      "definition": "‘정말로’의 방언"
+    },
+    {
+      "dialectWord": "징말",
+      "standardWord": "정말",
+      "definition": "‘정말’의 방언"
+    },
+    {
+      "dialectWord": "징말-루",
+      "standardWord": "정말로",
+      "definition": "‘정말로’의 방언"
+    },
+    {
+      "dialectWord": "너머",
+      "standardWord": "너무",
+      "definition": "‘너무’의 방언"
+    },
+    {
+      "dialectWord": "죄금",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "쪼꼼",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "쪼매",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "쪼매이",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "쬐꼼",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "쬐꿈",
+      "standardWord": "조금",
+      "definition": "‘조금’의 방언"
+    },
+    {
+      "dialectWord": "마이",
+      "standardWord": "많이",
+      "definition": "‘많이’의 방언"
+    },
+    {
+      "dialectWord": "마히",
+      "standardWord": "많이",
+      "definition": "‘많이’의 방언"
+    },
+    {
+      "dialectWord": "가운텟-집",
+      "standardWord": "가운뎃집",
+      "definition": "‘가운뎃집’의 방언"
+    },
+    {
+      "dialectWord": "개무-집",
+      "standardWord": "개미집",
+      "definition": "‘개미집’의 방언"
+    },
+    {
+      "dialectWord": "개짜배기",
+      "standardWord": "벌집",
+      "definition": "‘벌집’의 방언"
+    },
+    {
+      "dialectWord": "거무-집",
+      "standardWord": "거미집",
+      "definition": "‘거미집’의 방언"
+    },
+    {
+      "dialectWord": "건넷-집",
+      "standardWord": "건넛집",
+      "definition": "‘건넛집’의 방언"
+    },
+    {
+      "dialectWord": "고집불디기",
+      "standardWord": "고집불통",
+      "definition": "‘고집불통’의 방언"
+    },
+    {
+      "dialectWord": "고집불티기",
+      "standardWord": "고집불통",
+      "definition": "‘고집불통’의 방언"
+    },
+    {
+      "dialectWord": "고집불티이",
+      "standardWord": "고집불통",
+      "definition": "‘고집불통’의 방언"
+    },
+    {
+      "dialectWord": "고집-시룹다",
+      "standardWord": "고집스럽다",
+      "definition": "‘고집스럽다’의 방언"
+    },
+    {
+      "dialectWord": "고집텡-이",
+      "standardWord": "고집통이",
+      "definition": "‘고집통이’의 방언"
+    },
+    {
+      "dialectWord": "고집-패기",
+      "standardWord": "고집",
+      "definition": "‘고집’의 방언"
+    },
+    {
+      "dialectWord": "골패기",
+      "standardWord": "고집",
+      "definition": "‘고집’의 방언"
+    },
+    {
+      "dialectWord": "고등-핵교",
+      "standardWord": "고등학교",
+      "definition": "‘고등학교’의 방언"
+    },
+    {
+      "dialectWord": "대-핵교",
+      "standardWord": "대학교",
+      "definition": "‘대학교’의 방언"
+    },
+    {
+      "dialectWord": "소-핵교",
+      "standardWord": "소학교",
+      "definition": "‘소학교’의 방언"
+    },
+    {
+      "dialectWord": "학고",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "학괴",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "핵개",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "핵고",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "핵교",
+      "standardWord": "학교",
+      "definition": "‘학교’의 방언"
+    },
+    {
+      "dialectWord": "가락-쌈",
+      "standardWord": "가락옷",
+      "definition": "‘가락옷’의 방언"
+    },
+    {
+      "dialectWord": "가락-피",
+      "standardWord": "가락옷",
+      "definition": "‘가락옷’의 방언"
+    },
+    {
+      "dialectWord": "나들이-우티",
+      "standardWord": "나들이옷",
+      "definition": "‘나들이옷’의 방언"
+    },
+    {
+      "dialectWord": "동우",
+      "standardWord": "동옷",
+      "definition": "‘동옷’의 방언"
+    },
+    {
+      "dialectWord": "무멩-옷",
+      "standardWord": "무명옷",
+      "definition": "‘무명옷’의 방언"
+    },
+    {
+      "dialectWord": "방구-옷",
+      "standardWord": "바위옷",
+      "definition": "‘바위옷’의 방언"
+    },
+    {
+      "dialectWord": "보왜",
+      "standardWord": "옷감",
+      "definition": "‘옷감’의 방언"
+    },
+    {
+      "dialectWord": "삔-침",
+      "standardWord": "옷핀",
+      "definition": "‘옷핀’의 방언"
+    },
+    {
+      "dialectWord": "속-우티",
+      "standardWord": "속옷",
+      "definition": "‘속옷’의 방언"
+    },
+    {
+      "dialectWord": "아리-옷",
+      "standardWord": "아래옷",
+      "definition": "‘아래옷’의 방언"
+    },
+    {
+      "dialectWord": "오틔",
+      "standardWord": "옷",
+      "definition": "‘옷’의 방언"
+    },
+    {
+      "dialectWord": "옷-짓",
+      "standardWord": "옷깃",
+      "definition": "‘옷깃’의 방언"
+    },
+    {
+      "dialectWord": "옷-채림",
+      "standardWord": "옷차림",
+      "definition": "‘옷차림’의 방언"
+    },
+    {
+      "dialectWord": "옷채림-새",
+      "standardWord": "옷차림새",
+      "definition": "‘옷차림새’의 방언"
+    },
+    {
+      "dialectWord": "우튀",
+      "standardWord": "옷",
+      "definition": "‘옷’의 방언"
+    },
+    {
+      "dialectWord": "우틔",
+      "standardWord": "옷",
+      "definition": "‘옷’의 방언"
+    },
+    {
+      "dialectWord": "웃-옷",
+      "standardWord": "나들이옷",
+      "definition": "‘나들이옷’의 방언"
+    },
+    {
+      "dialectWord": "접-거",
+      "standardWord": "겹옷",
+      "definition": "‘겹옷’의 방언"
+    },
+    {
+      "dialectWord": "접-옷",
+      "standardWord": "겹옷",
+      "definition": "‘겹옷’의 방언&lt;DR /&gt; 제주 지역에서는 ‘옷’으로도 적는다."
+    },
+    {
+      "dialectWord": "접-우리",
+      "standardWord": "겹옷",
+      "definition": "‘겹옷’의 방언"
+    },
+    {
+      "dialectWord": "거시름-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "거실굼-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "거실름-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "거치",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "거치-뙈기",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "꽁-돈",
+      "standardWord": "공돈",
+      "definition": "‘공돈’의 방언"
+    },
+    {
+      "dialectWord": "나머지-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "냄기지-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "냉기지-돈",
+      "standardWord": "거스름돈",
+      "definition": "‘거스름돈’의 방언"
+    },
+    {
+      "dialectWord": "덤불-사돈",
+      "standardWord": "겹사돈",
+      "definition": "‘겹사돈’의 방언"
+    },
+    {
+      "dialectWord": "돈-가리",
+      "standardWord": "돈더미",
+      "definition": "‘돈더미’의 방언"
+    },
+    {
+      "dialectWord": "돈-거무",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-거미",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-구루",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-데미",
+      "standardWord": "돈더미",
+      "definition": "‘돈더미’의 방언"
+    },
+    {
+      "dialectWord": "돈무지",
+      "standardWord": "돈더미",
+      "definition": "‘돈더미’의 방언"
+    },
+    {
+      "dialectWord": "돈-바리",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-버러지",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-벌거지",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
+    },
+    {
+      "dialectWord": "돈-벌기",
+      "standardWord": "돈벌레",
+      "definition": "‘돈벌레’의 방언"
     }
   ]
 }
