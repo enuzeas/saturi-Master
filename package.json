@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && wrangler pages deploy dist --project-name=saturi-master",
+    "deploy": "vite build && npx wrangler pages deploy dist --project-name=saturi-master",
     "fetch-dialect-data": "node --env-file=.env scripts/fetch-dialect-glossary.mjs"
   },
   "dependencies": {
